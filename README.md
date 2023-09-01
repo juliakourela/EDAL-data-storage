@@ -1,2 +1,2 @@
 # EDAL-data-storage
-data storage proposal
+data storage proposal for WattTime
