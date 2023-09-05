@@ -7,12 +7,12 @@ A Jupyter Notebook for storage of geospatial emissions and energy usage data in 
 
 | Property | Description |
 | ------------- | ------------- |
-| region  | Textual descriptor of region |
-| Residential_Multiplier  | Multiplier used in determining Energy Use Intensity (EUI) factors for residential areas in region |
-| Commercial_Multiplier  | Multiplier used in determining Energy Use Intensity (EUI) factors for commercial areas in region |
-| Source  | Source from which data was acquired  |
-| Acquisition_Date  | Date data was acquired (MM-DD-YYYY)  |
-| Notes  | Additional notes regarding the data |
+| region  | Textual descriptor of region (string) |
+| Residential_Multiplier  | Multiplier used in determining Energy Use Intensity (EUI) factors for residential areas in region (float) |
+| Commercial_Multiplier  | Multiplier used in determining Energy Use Intensity (EUI) factors for commercial areas in region (float) |
+| Source  | Source from which data was acquired (string) |
+| Acquisition_Date  | Date data was acquired (MM-DD-YYYY) (string) |
+| Notes  | Additional notes regarding the data (string) |
 
 **Sample format:**
 ```
