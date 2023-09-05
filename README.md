@@ -1,5 +1,7 @@
 # EDAL-data-storage
-A Jupyter Notebook intended for storing geospatial emissions and energy usage data in GeoJSON form.
+A Jupyter Notebook for storage of geospatial emissions and energy usage data in GeoJSON form.
+
+**Dependencies:** pandas, json
 
 | Property | Description |
 | ------------- | ------------- |
