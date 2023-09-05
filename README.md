@@ -31,4 +31,5 @@ A Jupyter Notebook for storage of geospatial emissions and energy usage data in 
     "Acquisition_Date": "Date",
     "Notes": "Additional Notes"}
     }
+ ]}
 ```
