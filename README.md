@@ -7,12 +7,14 @@ A Jupyter Notebook for storage of geospatial emissions and energy usage data in 
 
 | Property | Description |
 | ------------- | ------------- |
-| region  | Textual descriptor of region (string) |
-| Residential_Multiplier  | Multiplier used in determining Energy Use Intensity (EUI) factors for residential areas in region (float) |
-| Commercial_Multiplier  | Multiplier used in determining Energy Use Intensity (EUI) factors for commercial areas in region (float) |
-| Source  | Source from which data was acquired (string) |
-| Acquisition_Date  | Date data was acquired (MM-DD-YYYY) (string) |
-| Notes  | Additional notes regarding the data (string) |
+| city  | Textual descriptor of city (string) |
+| region  | Textual descriptor of region/state/province (string) |
+| country  | Textual descriptor of country (string) |
+| residential_multiplier  | Multiplier used in determining Energy Use Intensity (EUI) factors for residential areas in region (float) |
+| commercial_multiplier  | Multiplier used in determining Energy Use Intensity (EUI) factors for commercial areas in region (float) |
+| source  | Source from which data was acquired (string) |
+| date_acquired  | Date data was acquired (MM-DD-YYYY) (string) |
+| notes  | Additional notes regarding the data (string) |
 
 **Sample format:**
 ```
@@ -21,15 +23,17 @@ A Jupyter Notebook for storage of geospatial emissions and energy usage data in 
     { "type": "Feature",
       "geometry": {
         "type": "Polygon",
-        "coordinates": [[[1, 2], [3, 4], [5, 6], [7, 8], [9, 10]]]
+        "coordinates": [42.3601, 71.0589]
     },
   "properties": {
+    "city": "boston",
     "region": "massachusetts",
-    "Residential_Multiplier": 193.84,
-    "Commercial_Multiplier": 190.07,
-    "Source": "Your Source",
-    "Acquisition_Date": "Date",
-    "Notes": "Additional Notes"}
+    "country": "united states",
+    "residential_multiplier": 193.84,
+    "commercial_multiplier": 190.07,
+    "source": "Your Source",
+    "date_acquired": "Date",
+    "notes": "Additional Notes"}
     }
  ]}
 ```
