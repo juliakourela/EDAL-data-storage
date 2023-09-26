@@ -1,5 +1,5 @@
 import pandas as pd
-from feature_collection_ops import *
+from .feature_collection_ops import *
 from unidecode import unidecode
 
 

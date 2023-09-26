@@ -1,6 +1,6 @@
 import pandas as pd
 from datetime import date
-from geonames_interface import *
+from .geonames_interface import *
 
 
 def create_feature(data, name, feature_type,

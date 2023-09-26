@@ -1,6 +1,8 @@
 import pandas as pd
-from json_interface import *
-from ingest_datasets import *
+from libs.json_interface import *
+from libs.ingest_datasets import *
+
+
 
 def main():
     filename = 'output.json'
