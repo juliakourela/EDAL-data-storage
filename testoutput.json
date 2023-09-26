@@ -1,0 +1,325 @@
+[
+    {
+        "acquisition_date": "2023-09-26",
+        "emissions_factor": [
+            {
+                "Carbon Dioxide (CO2) Factor": "Propane",
+                "Kilograms CO2 (Per Unit of Volume or Mass)": "5.75 gallon",
+                "Kilograms CO2 Per Million Btu": 62.88,
+                "Pounds CO2 (Per Unit of Volume or Mass)": "12.68 gallon",
+                "Pounds CO2 Per Million Btu": 138.63
+            },
+            {
+                "Carbon Dioxide (CO2) Factor": "Diesel and Home Heating Fuel (Distillate Fuel Oil)",
+                "Kilograms CO2 (Per Unit of Volume or Mass)": "10.19 gallon",
+                "Kilograms CO2 Per Million Btu": 74.14,
+                "Pounds CO2 (Per Unit of Volume or Mass)": "22.45 gallon",
+                "Pounds CO2 Per Million Btu": 163.45
+            },
+            {
+                "Carbon Dioxide (CO2) Factor": "Kerosene",
+                "Kilograms CO2 (Per Unit of Volume or Mass)": "9.88 gallon",
+                "Kilograms CO2 Per Million Btu": 73.19,
+                "Pounds CO2 (Per Unit of Volume or Mass)": "21.78 gallon",
+                "Pounds CO2 Per Million Btu": 161.35
+            },
+            {
+                "Carbon Dioxide (CO2) Factor": "Coal (All types)",
+                "Kilograms CO2 (Per Unit of Volume or Mass)": "1,758.40 short ton",
+                "Kilograms CO2 Per Million Btu": 96.1,
+                "Pounds CO2 (Per Unit of Volume or Mass)": "3,876.61 short ton",
+                "Pounds CO2 Per Million Btu": 211.87
+            },
+            {
+                "Carbon Dioxide (CO2) Factor": "Natural Gas",
+                "Kilograms CO2 (Per Unit of Volume or Mass)": "54.87 thousand cubic feet",
+                "Kilograms CO2 Per Million Btu": 52.91,
+                "Pounds CO2 (Per Unit of Volume or Mass)": "120.96 thousand cubic feet",
+                "Pounds CO2 Per Million Btu": 116.65
+            },
+            {
+                "Carbon Dioxide (CO2) Factor": "Finished Motor Gasolinea",
+                "Kilograms CO2 (Per Unit of Volume or Mass)": "8.10 gallon",
+                "Kilograms CO2 Per Million Btu": 67.34,
+                "Pounds CO2 (Per Unit of Volume or Mass)": "17.86 gallon",
+                "Pounds CO2 Per Million Btu": 148.47
+            },
+            {
+                "Carbon Dioxide (CO2) Factor": "Motor Gasoline",
+                "Kilograms CO2 (Per Unit of Volume or Mass)": "8.78 gallon",
+                "Kilograms CO2 Per Million Btu": 70.66,
+                "Pounds CO2 (Per Unit of Volume or Mass)": "19.37 gallon",
+                "Pounds CO2 Per Million Btu": 155.77
+            },
+            {
+                "Carbon Dioxide (CO2) Factor": "Residual Heating Fuel (Businesses only)",
+                "Kilograms CO2 (Per Unit of Volume or Mass)": "11.24 gallon",
+                "Kilograms CO2 Per Million Btu": 75.09,
+                "Pounds CO2 (Per Unit of Volume or Mass)": "24.78 gallon",
+                "Pounds CO2 Per Million Btu": 165.55
+            }
+        ],
+        "eui_commercial_multiplier": null,
+        "eui_residential_multiplier": null,
+        "feature_type": "Continent",
+        "fuel_use_mix": null,
+        "geonames_id": 6255149,
+        "name": "North America",
+        "notes": "N/A",
+        "parent_hierarchy": [],
+        "source": "Wikipedia",
+        "valid_end_date": "2023-01-01",
+        "valid_start_date": "2000-01-01"
+    },
+    {
+        "acquisition_date": "2023-09-26",
+        "emissions_factor": null,
+        "eui_commercial_multiplier": null,
+        "eui_residential_multiplier": null,
+        "feature_type": "Country",
+        "fuel_use_mix": [
+            {
+                "CO2 Emissions Weighted by Percentage of Fuel Mix": 6.90605885284697,
+                "Kg CO2 emissions/ MMBtu": 52.91,
+                "Percentage Of New Total (less 'Other')": 0.13052464284345058,
+                "Residential Non-Electricity Heating Source": "Natural Gas"
+            },
+            {
+                "CO2 Emissions Weighted by Percentage of Fuel Mix": 54.25073529463019,
+                "Kg CO2 emissions/ MMBtu": 62.88,
+                "Percentage Of New Total (less 'Other')": 0.8627661465431009,
+                "Residential Non-Electricity Heating Source": "Propane"
+            },
+            {
+                "CO2 Emissions Weighted by Percentage of Fuel Mix": 0.49423399983967586,
+                "Kg CO2 emissions/ MMBtu": 73.66499999999999,
+                "Percentage Of New Total (less 'Other')": 0.006709210613448394,
+                "Residential Non-Electricity Heating Source": "Kerosene / Petroleum"
+            },
+            {
+                "CO2 Emissions Weighted by Percentage of Fuel Mix": 0,
+                "Kg CO2 emissions/ MMBtu": 79.23751125819331,
+                "Percentage Of New Total (less 'Other')": 0,
+                "Residential Non-Electricity Heating Source": "Biogas"
+            }
+        ],
+        "geonames_id": 3996063,
+        "name": "Mexico",
+        "notes": "N/A",
+        "parent_hierarchy": [
+            "North America"
+        ],
+        "source": "Wikipedia",
+        "valid_end_date": "2023-01-01",
+        "valid_start_date": "2000-01-01"
+    },
+    {
+        "acquisition_date": "2023-09-26",
+        "emissions_factor": null,
+        "eui_commercial_multiplier": 6.943609022556391,
+        "eui_residential_multiplier": 12.03125,
+        "feature_type": "Municipality",
+        "fuel_use_mix": null,
+        "geonames_id": 3531673,
+        "name": "Cancun",
+        "notes": "N/A",
+        "parent_hierarchy": [
+            "Quintana Roo",
+            "Mexico",
+            "North America"
+        ],
+        "source": "Wikipedia",
+        "valid_end_date": "2023-01-01",
+        "valid_start_date": "2000-01-01"
+    },
+    {
+        "acquisition_date": "2023-09-26",
+        "emissions_factor": null,
+        "eui_commercial_multiplier": 16.165413533834588,
+        "eui_residential_multiplier": 27.5,
+        "feature_type": "Municipality",
+        "fuel_use_mix": null,
+        "geonames_id": 4005270,
+        "name": "Guanajuato",
+        "notes": "N/A",
+        "parent_hierarchy": [
+            "Guanajuato",
+            "Mexico",
+            "North America"
+        ],
+        "source": "Wikipedia",
+        "valid_end_date": "2023-01-01",
+        "valid_start_date": "2000-01-01"
+    },
+    {
+        "acquisition_date": "2023-09-26",
+        "emissions_factor": null,
+        "eui_commercial_multiplier": 18.07142857142857,
+        "eui_residential_multiplier": 37.34375,
+        "feature_type": "Municipality",
+        "fuel_use_mix": null,
+        "geonames_id": 4004898,
+        "name": "Hermosillo",
+        "notes": "N/A",
+        "parent_hierarchy": [
+            "Sonora",
+            "Mexico",
+            "North America"
+        ],
+        "source": "Wikipedia",
+        "valid_end_date": "2023-01-01",
+        "valid_start_date": "2000-01-01"
+    },
+    {
+        "acquisition_date": "2023-09-26",
+        "emissions_factor": null,
+        "eui_commercial_multiplier": 8.913533834586467,
+        "eui_residential_multiplier": 15.15625,
+        "feature_type": "Municipality",
+        "fuel_use_mix": null,
+        "geonames_id": 3996322,
+        "name": "Mazatlan",
+        "notes": "N/A",
+        "parent_hierarchy": [
+            "Sinaloa",
+            "Mexico",
+            "North America"
+        ],
+        "source": "Wikipedia",
+        "valid_end_date": "2023-01-01",
+        "valid_start_date": "2000-01-01"
+    },
+    {
+        "acquisition_date": "2023-09-26",
+        "emissions_factor": null,
+        "eui_commercial_multiplier": 6.693609022556391,
+        "eui_residential_multiplier": 13.28125,
+        "feature_type": "Municipality",
+        "fuel_use_mix": null,
+        "geonames_id": 3523349,
+        "name": "Merida",
+        "notes": "N/A",
+        "parent_hierarchy": [
+            "Yucat\u00e1n",
+            "Mexico",
+            "North America"
+        ],
+        "source": "Wikipedia",
+        "valid_end_date": "2023-01-01",
+        "valid_start_date": "2000-01-01"
+    },
+    {
+        "acquisition_date": "2023-09-26",
+        "emissions_factor": null,
+        "eui_commercial_multiplier": 15.851503759398497,
+        "eui_residential_multiplier": 32.8125,
+        "feature_type": "Municipality",
+        "fuel_use_mix": null,
+        "geonames_id": 3996069,
+        "name": "Mexicali",
+        "notes": "N/A",
+        "parent_hierarchy": [
+            "Baja California",
+            "Mexico",
+            "North America"
+        ],
+        "source": "Wikipedia",
+        "valid_end_date": "2023-01-01",
+        "valid_start_date": "2000-01-01"
+    },
+    {
+        "acquisition_date": "2023-09-26",
+        "emissions_factor": null,
+        "eui_commercial_multiplier": 22.979323308270676,
+        "eui_residential_multiplier": 41.09375,
+        "feature_type": "Municipality",
+        "fuel_use_mix": null,
+        "geonames_id": 3530597,
+        "name": "Mexico City",
+        "notes": "N/A",
+        "parent_hierarchy": [
+            "Mexico City",
+            "Mexico",
+            "North America"
+        ],
+        "source": "Wikipedia",
+        "valid_end_date": "2023-01-01",
+        "valid_start_date": "2000-01-01"
+    },
+    {
+        "acquisition_date": "2023-09-26",
+        "emissions_factor": null,
+        "eui_commercial_multiplier": 12.507518796992482,
+        "eui_residential_multiplier": 22.1875,
+        "feature_type": "Municipality",
+        "fuel_use_mix": null,
+        "geonames_id": 3995465,
+        "name": "Monterrey",
+        "notes": "N/A",
+        "parent_hierarchy": [
+            "Nuevo Le\u00f3n",
+            "Mexico",
+            "North America"
+        ],
+        "source": "Wikipedia",
+        "valid_end_date": "2023-01-01",
+        "valid_start_date": "2000-01-01"
+    },
+    {
+        "acquisition_date": "2023-09-26",
+        "emissions_factor": null,
+        "eui_commercial_multiplier": 23.479323308270676,
+        "eui_residential_multiplier": 47.65625,
+        "feature_type": "Municipality",
+        "fuel_use_mix": null,
+        "geonames_id": 3985606,
+        "name": "San Luis Potosi",
+        "notes": "N/A",
+        "parent_hierarchy": [
+            "San Luis Potos\u00ed",
+            "Mexico",
+            "North America"
+        ],
+        "source": "Wikipedia",
+        "valid_end_date": "2023-01-01",
+        "valid_start_date": "2000-01-01"
+    },
+    {
+        "acquisition_date": "2023-09-26",
+        "emissions_factor": null,
+        "eui_commercial_multiplier": 8.819548872180452,
+        "eui_residential_multiplier": 15.15625,
+        "feature_type": "Municipality",
+        "fuel_use_mix": null,
+        "geonames_id": 3516355,
+        "name": "Tampico",
+        "notes": "N/A",
+        "parent_hierarchy": [
+            "Tamaulipas",
+            "Mexico",
+            "North America"
+        ],
+        "source": "Wikipedia",
+        "valid_end_date": "2023-01-01",
+        "valid_start_date": "2000-01-01"
+    },
+    {
+        "acquisition_date": "2023-09-26",
+        "emissions_factor": null,
+        "eui_commercial_multiplier": 7.475563909774436,
+        "eui_residential_multiplier": 14.375,
+        "feature_type": "Municipality",
+        "fuel_use_mix": null,
+        "geonames_id": 3514783,
+        "name": "Veracruz",
+        "notes": "N/A",
+        "parent_hierarchy": [
+            "Veracruz",
+            "Mexico",
+            "North America"
+        ],
+        "source": "Wikipedia",
+        "valid_end_date": "2023-01-01",
+        "valid_start_date": "2000-01-01"
+    }
+]
