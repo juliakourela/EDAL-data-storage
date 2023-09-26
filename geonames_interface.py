@@ -27,7 +27,6 @@ def get_request(username, placename):
         return []
     decoded_response = response.content.decode('utf-8')
     response_json = json.loads(json.dumps(xmltodict.parse(decoded_response)))
-    print(response_json)
     return response_json['geonames']['geoname']
 
 

@@ -172,6 +172,48 @@
     },
     {
         "acquisition_date": "2023-09-26",
+        "emissions_factor": null,
+        "eui_commercial_multiplier": null,
+        "eui_residential_multiplier": null,
+        "feature_type": "Country",
+        "fuel_use_mix": [
+            {
+                "CO2 Emissions Weighted by Percentage of Fuel Mix": 0.22301369863013695,
+                "Kg CO2 emissions/ MMBtu": 52.91,
+                "Percentage Of New Total (less 'Other')": 0.004214963119072708,
+                "Residential Non-Electricity Heating Source": "Natural Gas"
+            },
+            {
+                "CO2 Emissions Weighted by Percentage of Fuel Mix": 60.173698082739186,
+                "Kg CO2 emissions/ MMBtu": 62.88,
+                "Percentage Of New Total (less 'Other')": 0.9569608473718063,
+                "Residential Non-Electricity Heating Source": "Propane"
+            },
+            {
+                "CO2 Emissions Weighted by Percentage of Fuel Mix": 2.678525652429762,
+                "Kg CO2 emissions/ MMBtu": 73.66499999999999,
+                "Percentage Of New Total (less 'Other')": 0.03636089937459801,
+                "Residential Non-Electricity Heating Source": "Kerosene / Petroleum"
+            },
+            {
+                "CO2 Emissions Weighted by Percentage of Fuel Mix": 0.1951849797664636,
+                "Kg CO2 emissions/ MMBtu": 79.23751125819331,
+                "Percentage Of New Total (less 'Other')": 0.002463290134523011,
+                "Residential Non-Electricity Heating Source": "Biogas"
+            }
+        ],
+        "geonames_id": 1643084,
+        "name": "Indonesia",
+        "notes": "N/A",
+        "parent_hierarchy": [
+            "Asia"
+        ],
+        "source": "Wikipedia",
+        "valid_end_date": "2023-01-01",
+        "valid_start_date": "2000-01-01"
+    },
+    {
+        "acquisition_date": "2023-09-26",
         "emissions_factor": [
             {
                 "Carbon Dioxide (CO2) Factor": "Propane",
@@ -1377,6 +1419,508 @@
             "Veracruz",
             "Mexico",
             "North America"
+        ],
+        "source": "Wikipedia",
+        "valid_end_date": "2023-01-01",
+        "valid_start_date": "2000-01-01"
+    },
+    {
+        "acquisition_date": "2023-09-26",
+        "emissions_factor": null,
+        "eui_commercial_multiplier": 5.815789473684211,
+        "eui_residential_multiplier": 11.09375,
+        "feature_type": "Municipality",
+        "fuel_use_mix": [
+            {
+                "CO2 Emissions Weighted by Percentage of Fuel Mix": 0.22301369863013695,
+                "Kg CO2 emissions/ MMBtu": 52.91,
+                "Percentage Of New Total (less 'Other')": 0.004214963119072708,
+                "Residential Non-Electricity Heating Source": "Natural Gas"
+            },
+            {
+                "CO2 Emissions Weighted by Percentage of Fuel Mix": 60.173698082739186,
+                "Kg CO2 emissions/ MMBtu": 62.88,
+                "Percentage Of New Total (less 'Other')": 0.9569608473718063,
+                "Residential Non-Electricity Heating Source": "Propane"
+            },
+            {
+                "CO2 Emissions Weighted by Percentage of Fuel Mix": 2.678525652429762,
+                "Kg CO2 emissions/ MMBtu": 73.66499999999999,
+                "Percentage Of New Total (less 'Other')": 0.03636089937459801,
+                "Residential Non-Electricity Heating Source": "Kerosene / Petroleum"
+            },
+            {
+                "CO2 Emissions Weighted by Percentage of Fuel Mix": 0.1951849797664636,
+                "Kg CO2 emissions/ MMBtu": 79.23751125819331,
+                "Percentage Of New Total (less 'Other')": 0.002463290134523011,
+                "Residential Non-Electricity Heating Source": "Biogas"
+            }
+        ],
+        "geonames_id": 1650527,
+        "name": "Balikpapan",
+        "notes": "N/A",
+        "parent_hierarchy": [
+            "East Kalimantan",
+            "Indonesia",
+            "Asia"
+        ],
+        "source": "Wikipedia",
+        "valid_end_date": "2023-01-01",
+        "valid_start_date": "2000-01-01"
+    },
+    {
+        "acquisition_date": "2023-09-26",
+        "emissions_factor": null,
+        "eui_commercial_multiplier": 6.753759398496241,
+        "eui_residential_multiplier": 14.0625,
+        "feature_type": "Municipality",
+        "fuel_use_mix": [
+            {
+                "CO2 Emissions Weighted by Percentage of Fuel Mix": 0.22301369863013695,
+                "Kg CO2 emissions/ MMBtu": 52.91,
+                "Percentage Of New Total (less 'Other')": 0.004214963119072708,
+                "Residential Non-Electricity Heating Source": "Natural Gas"
+            },
+            {
+                "CO2 Emissions Weighted by Percentage of Fuel Mix": 60.173698082739186,
+                "Kg CO2 emissions/ MMBtu": 62.88,
+                "Percentage Of New Total (less 'Other')": 0.9569608473718063,
+                "Residential Non-Electricity Heating Source": "Propane"
+            },
+            {
+                "CO2 Emissions Weighted by Percentage of Fuel Mix": 2.678525652429762,
+                "Kg CO2 emissions/ MMBtu": 73.66499999999999,
+                "Percentage Of New Total (less 'Other')": 0.03636089937459801,
+                "Residential Non-Electricity Heating Source": "Kerosene / Petroleum"
+            },
+            {
+                "CO2 Emissions Weighted by Percentage of Fuel Mix": 0.1951849797664636,
+                "Kg CO2 emissions/ MMBtu": 79.23751125819331,
+                "Percentage Of New Total (less 'Other')": 0.002463290134523011,
+                "Residential Non-Electricity Heating Source": "Biogas"
+            }
+        ],
+        "geonames_id": 1650357,
+        "name": "Bandung",
+        "notes": "N/A",
+        "parent_hierarchy": [
+            "West Java",
+            "Indonesia",
+            "Asia"
+        ],
+        "source": "Wikipedia",
+        "valid_end_date": "2023-01-01",
+        "valid_start_date": "2000-01-01"
+    },
+    {
+        "acquisition_date": "2023-09-26",
+        "emissions_factor": null,
+        "eui_commercial_multiplier": 5.815789473684211,
+        "eui_residential_multiplier": 11.25,
+        "feature_type": "Municipality",
+        "fuel_use_mix": [
+            {
+                "CO2 Emissions Weighted by Percentage of Fuel Mix": 0.22301369863013695,
+                "Kg CO2 emissions/ MMBtu": 52.91,
+                "Percentage Of New Total (less 'Other')": 0.004214963119072708,
+                "Residential Non-Electricity Heating Source": "Natural Gas"
+            },
+            {
+                "CO2 Emissions Weighted by Percentage of Fuel Mix": 60.173698082739186,
+                "Kg CO2 emissions/ MMBtu": 62.88,
+                "Percentage Of New Total (less 'Other')": 0.9569608473718063,
+                "Residential Non-Electricity Heating Source": "Propane"
+            },
+            {
+                "CO2 Emissions Weighted by Percentage of Fuel Mix": 2.678525652429762,
+                "Kg CO2 emissions/ MMBtu": 73.66499999999999,
+                "Percentage Of New Total (less 'Other')": 0.03636089937459801,
+                "Residential Non-Electricity Heating Source": "Kerosene / Petroleum"
+            },
+            {
+                "CO2 Emissions Weighted by Percentage of Fuel Mix": 0.1951849797664636,
+                "Kg CO2 emissions/ MMBtu": 79.23751125819331,
+                "Percentage Of New Total (less 'Other')": 0.002463290134523011,
+                "Residential Non-Electricity Heating Source": "Biogas"
+            }
+        ],
+        "geonames_id": 1650213,
+        "name": "Banjarmasin",
+        "notes": "N/A",
+        "parent_hierarchy": [
+            "South Kalimantan",
+            "Indonesia",
+            "Asia"
+        ],
+        "source": "Wikipedia",
+        "valid_end_date": "2023-01-01",
+        "valid_start_date": "2000-01-01"
+    },
+    {
+        "acquisition_date": "2023-09-26",
+        "emissions_factor": null,
+        "eui_commercial_multiplier": 5.12781954887218,
+        "eui_residential_multiplier": 9.375,
+        "feature_type": "Municipality",
+        "fuel_use_mix": [
+            {
+                "CO2 Emissions Weighted by Percentage of Fuel Mix": 0.22301369863013695,
+                "Kg CO2 emissions/ MMBtu": 52.91,
+                "Percentage Of New Total (less 'Other')": 0.004214963119072708,
+                "Residential Non-Electricity Heating Source": "Natural Gas"
+            },
+            {
+                "CO2 Emissions Weighted by Percentage of Fuel Mix": 60.173698082739186,
+                "Kg CO2 emissions/ MMBtu": 62.88,
+                "Percentage Of New Total (less 'Other')": 0.9569608473718063,
+                "Residential Non-Electricity Heating Source": "Propane"
+            },
+            {
+                "CO2 Emissions Weighted by Percentage of Fuel Mix": 2.678525652429762,
+                "Kg CO2 emissions/ MMBtu": 73.66499999999999,
+                "Percentage Of New Total (less 'Other')": 0.03636089937459801,
+                "Residential Non-Electricity Heating Source": "Kerosene / Petroleum"
+            },
+            {
+                "CO2 Emissions Weighted by Percentage of Fuel Mix": 0.1951849797664636,
+                "Kg CO2 emissions/ MMBtu": 79.23751125819331,
+                "Percentage Of New Total (less 'Other')": 0.002463290134523011,
+                "Residential Non-Electricity Heating Source": "Biogas"
+            }
+        ],
+        "geonames_id": 1645528,
+        "name": "Denpasar",
+        "notes": "N/A",
+        "parent_hierarchy": [
+            "Bali",
+            "Indonesia",
+            "Asia"
+        ],
+        "source": "Wikipedia",
+        "valid_end_date": "2023-01-01",
+        "valid_start_date": "2000-01-01"
+    },
+    {
+        "acquisition_date": "2023-09-26",
+        "emissions_factor": null,
+        "eui_commercial_multiplier": 4.87781954887218,
+        "eui_residential_multiplier": 8.125,
+        "feature_type": "Municipality",
+        "fuel_use_mix": [
+            {
+                "CO2 Emissions Weighted by Percentage of Fuel Mix": 0.22301369863013695,
+                "Kg CO2 emissions/ MMBtu": 52.91,
+                "Percentage Of New Total (less 'Other')": 0.004214963119072708,
+                "Residential Non-Electricity Heating Source": "Natural Gas"
+            },
+            {
+                "CO2 Emissions Weighted by Percentage of Fuel Mix": 60.173698082739186,
+                "Kg CO2 emissions/ MMBtu": 62.88,
+                "Percentage Of New Total (less 'Other')": 0.9569608473718063,
+                "Residential Non-Electricity Heating Source": "Propane"
+            },
+            {
+                "CO2 Emissions Weighted by Percentage of Fuel Mix": 2.678525652429762,
+                "Kg CO2 emissions/ MMBtu": 73.66499999999999,
+                "Percentage Of New Total (less 'Other')": 0.03636089937459801,
+                "Residential Non-Electricity Heating Source": "Kerosene / Petroleum"
+            },
+            {
+                "CO2 Emissions Weighted by Percentage of Fuel Mix": 0.1951849797664636,
+                "Kg CO2 emissions/ MMBtu": 79.23751125819331,
+                "Percentage Of New Total (less 'Other')": 0.002463290134523011,
+                "Residential Non-Electricity Heating Source": "Biogas"
+            }
+        ],
+        "geonames_id": 1642911,
+        "name": "Jakarta",
+        "notes": "N/A",
+        "parent_hierarchy": [
+            "Jakarta",
+            "Indonesia",
+            "Asia"
+        ],
+        "source": "Wikipedia",
+        "valid_end_date": "2023-01-01",
+        "valid_start_date": "2000-01-01"
+    },
+    {
+        "acquisition_date": "2023-09-26",
+        "emissions_factor": null,
+        "eui_commercial_multiplier": 5.2218045112781954,
+        "eui_residential_multiplier": 9.6875,
+        "feature_type": "Municipality",
+        "fuel_use_mix": [
+            {
+                "CO2 Emissions Weighted by Percentage of Fuel Mix": 0.22301369863013695,
+                "Kg CO2 emissions/ MMBtu": 52.91,
+                "Percentage Of New Total (less 'Other')": 0.004214963119072708,
+                "Residential Non-Electricity Heating Source": "Natural Gas"
+            },
+            {
+                "CO2 Emissions Weighted by Percentage of Fuel Mix": 60.173698082739186,
+                "Kg CO2 emissions/ MMBtu": 62.88,
+                "Percentage Of New Total (less 'Other')": 0.9569608473718063,
+                "Residential Non-Electricity Heating Source": "Propane"
+            },
+            {
+                "CO2 Emissions Weighted by Percentage of Fuel Mix": 2.678525652429762,
+                "Kg CO2 emissions/ MMBtu": 73.66499999999999,
+                "Percentage Of New Total (less 'Other')": 0.03636089937459801,
+                "Residential Non-Electricity Heating Source": "Kerosene / Petroleum"
+            },
+            {
+                "CO2 Emissions Weighted by Percentage of Fuel Mix": 0.1951849797664636,
+                "Kg CO2 emissions/ MMBtu": 79.23751125819331,
+                "Percentage Of New Total (less 'Other')": 0.002463290134523011,
+                "Residential Non-Electricity Heating Source": "Biogas"
+            }
+        ],
+        "geonames_id": 1622786,
+        "name": "Makassar",
+        "notes": "N/A",
+        "parent_hierarchy": [
+            "South Sulawesi",
+            "Indonesia",
+            "Asia"
+        ],
+        "source": "Wikipedia",
+        "valid_end_date": "2023-01-01",
+        "valid_start_date": "2000-01-01"
+    },
+    {
+        "acquisition_date": "2023-09-26",
+        "emissions_factor": null,
+        "eui_commercial_multiplier": 5.2218045112781954,
+        "eui_residential_multiplier": 9.84375,
+        "feature_type": "Municipality",
+        "fuel_use_mix": [
+            {
+                "CO2 Emissions Weighted by Percentage of Fuel Mix": 0.22301369863013695,
+                "Kg CO2 emissions/ MMBtu": 52.91,
+                "Percentage Of New Total (less 'Other')": 0.004214963119072708,
+                "Residential Non-Electricity Heating Source": "Natural Gas"
+            },
+            {
+                "CO2 Emissions Weighted by Percentage of Fuel Mix": 60.173698082739186,
+                "Kg CO2 emissions/ MMBtu": 62.88,
+                "Percentage Of New Total (less 'Other')": 0.9569608473718063,
+                "Residential Non-Electricity Heating Source": "Propane"
+            },
+            {
+                "CO2 Emissions Weighted by Percentage of Fuel Mix": 2.678525652429762,
+                "Kg CO2 emissions/ MMBtu": 73.66499999999999,
+                "Percentage Of New Total (less 'Other')": 0.03636089937459801,
+                "Residential Non-Electricity Heating Source": "Kerosene / Petroleum"
+            },
+            {
+                "CO2 Emissions Weighted by Percentage of Fuel Mix": 0.1951849797664636,
+                "Kg CO2 emissions/ MMBtu": 79.23751125819331,
+                "Percentage Of New Total (less 'Other')": 0.002463290134523011,
+                "Residential Non-Electricity Heating Source": "Biogas"
+            }
+        ],
+        "geonames_id": 1636544,
+        "name": "Manado",
+        "notes": "N/A",
+        "parent_hierarchy": [
+            "North Sulawesi",
+            "Indonesia",
+            "Asia"
+        ],
+        "source": "Wikipedia",
+        "valid_end_date": "2023-01-01",
+        "valid_start_date": "2000-01-01"
+    },
+    {
+        "acquisition_date": "2023-09-26",
+        "emissions_factor": null,
+        "eui_commercial_multiplier": 5.2218045112781954,
+        "eui_residential_multiplier": 9.84375,
+        "feature_type": "Municipality",
+        "fuel_use_mix": [
+            {
+                "CO2 Emissions Weighted by Percentage of Fuel Mix": 0.22301369863013695,
+                "Kg CO2 emissions/ MMBtu": 52.91,
+                "Percentage Of New Total (less 'Other')": 0.004214963119072708,
+                "Residential Non-Electricity Heating Source": "Natural Gas"
+            },
+            {
+                "CO2 Emissions Weighted by Percentage of Fuel Mix": 60.173698082739186,
+                "Kg CO2 emissions/ MMBtu": 62.88,
+                "Percentage Of New Total (less 'Other')": 0.9569608473718063,
+                "Residential Non-Electricity Heating Source": "Propane"
+            },
+            {
+                "CO2 Emissions Weighted by Percentage of Fuel Mix": 2.678525652429762,
+                "Kg CO2 emissions/ MMBtu": 73.66499999999999,
+                "Percentage Of New Total (less 'Other')": 0.03636089937459801,
+                "Residential Non-Electricity Heating Source": "Kerosene / Petroleum"
+            },
+            {
+                "CO2 Emissions Weighted by Percentage of Fuel Mix": 0.1951849797664636,
+                "Kg CO2 emissions/ MMBtu": 79.23751125819331,
+                "Percentage Of New Total (less 'Other')": 0.002463290134523011,
+                "Residential Non-Electricity Heating Source": "Biogas"
+            }
+        ],
+        "geonames_id": 1214520,
+        "name": "Medan",
+        "notes": "N/A",
+        "parent_hierarchy": [
+            "North Sumatra",
+            "Indonesia",
+            "Asia"
+        ],
+        "source": "Wikipedia",
+        "valid_end_date": "2023-01-01",
+        "valid_start_date": "2000-01-01"
+    },
+    {
+        "acquisition_date": "2023-09-26",
+        "emissions_factor": null,
+        "eui_commercial_multiplier": 6.159774436090226,
+        "eui_residential_multiplier": 12.03125,
+        "feature_type": "Municipality",
+        "fuel_use_mix": [
+            {
+                "CO2 Emissions Weighted by Percentage of Fuel Mix": 0.22301369863013695,
+                "Kg CO2 emissions/ MMBtu": 52.91,
+                "Percentage Of New Total (less 'Other')": 0.004214963119072708,
+                "Residential Non-Electricity Heating Source": "Natural Gas"
+            },
+            {
+                "CO2 Emissions Weighted by Percentage of Fuel Mix": 60.173698082739186,
+                "Kg CO2 emissions/ MMBtu": 62.88,
+                "Percentage Of New Total (less 'Other')": 0.9569608473718063,
+                "Residential Non-Electricity Heating Source": "Propane"
+            },
+            {
+                "CO2 Emissions Weighted by Percentage of Fuel Mix": 2.678525652429762,
+                "Kg CO2 emissions/ MMBtu": 73.66499999999999,
+                "Percentage Of New Total (less 'Other')": 0.03636089937459801,
+                "Residential Non-Electricity Heating Source": "Kerosene / Petroleum"
+            },
+            {
+                "CO2 Emissions Weighted by Percentage of Fuel Mix": 0.1951849797664636,
+                "Kg CO2 emissions/ MMBtu": 79.23751125819331,
+                "Percentage Of New Total (less 'Other')": 0.002463290134523011,
+                "Residential Non-Electricity Heating Source": "Biogas"
+            }
+        ],
+        "geonames_id": 1633419,
+        "name": "Padang",
+        "notes": "N/A",
+        "parent_hierarchy": [
+            "West Sumatra",
+            "Indonesia",
+            "Asia"
+        ],
+        "source": "Wikipedia",
+        "valid_end_date": "2023-01-01",
+        "valid_start_date": "2000-01-01"
+    },
+    {
+        "acquisition_date": "2023-09-26",
+        "emissions_factor": null,
+        "eui_commercial_multiplier": 5.815789473684211,
+        "eui_residential_multiplier": 10.9375,
+        "feature_type": "Municipality",
+        "fuel_use_mix": [
+            {
+                "CO2 Emissions Weighted by Percentage of Fuel Mix": 0.22301369863013695,
+                "Kg CO2 emissions/ MMBtu": 52.91,
+                "Percentage Of New Total (less 'Other')": 0.004214963119072708,
+                "Residential Non-Electricity Heating Source": "Natural Gas"
+            },
+            {
+                "CO2 Emissions Weighted by Percentage of Fuel Mix": 60.173698082739186,
+                "Kg CO2 emissions/ MMBtu": 62.88,
+                "Percentage Of New Total (less 'Other')": 0.9569608473718063,
+                "Residential Non-Electricity Heating Source": "Propane"
+            },
+            {
+                "CO2 Emissions Weighted by Percentage of Fuel Mix": 2.678525652429762,
+                "Kg CO2 emissions/ MMBtu": 73.66499999999999,
+                "Percentage Of New Total (less 'Other')": 0.03636089937459801,
+                "Residential Non-Electricity Heating Source": "Kerosene / Petroleum"
+            },
+            {
+                "CO2 Emissions Weighted by Percentage of Fuel Mix": 0.1951849797664636,
+                "Kg CO2 emissions/ MMBtu": 79.23751125819331,
+                "Percentage Of New Total (less 'Other')": 0.002463290134523011,
+                "Residential Non-Electricity Heating Source": "Biogas"
+            }
+        ],
+        "geonames_id": 1633070,
+        "name": "Palembang",
+        "notes": "N/A",
+        "parent_hierarchy": [
+            "South Sumatra",
+            "Indonesia",
+            "Asia"
+        ],
+        "source": "Wikipedia",
+        "valid_end_date": "2023-01-01",
+        "valid_start_date": "2000-01-01"
+    },
+    {
+        "acquisition_date": "2023-09-26",
+        "emissions_factor": null,
+        "eui_commercial_multiplier": 5.565789473684211,
+        "eui_residential_multiplier": 10.625,
+        "feature_type": "Municipality",
+        "fuel_use_mix": null,
+        "geonames_id": 2450815,
+        "name": "Solo",
+        "notes": "N/A",
+        "parent_hierarchy": [
+            "Mali",
+            "Africa"
+        ],
+        "source": "Wikipedia",
+        "valid_end_date": "2023-01-01",
+        "valid_start_date": "2000-01-01"
+    },
+    {
+        "acquisition_date": "2023-09-26",
+        "emissions_factor": null,
+        "eui_commercial_multiplier": 5.12781954887218,
+        "eui_residential_multiplier": 9.53125,
+        "feature_type": "Municipality",
+        "fuel_use_mix": [
+            {
+                "CO2 Emissions Weighted by Percentage of Fuel Mix": 0.22301369863013695,
+                "Kg CO2 emissions/ MMBtu": 52.91,
+                "Percentage Of New Total (less 'Other')": 0.004214963119072708,
+                "Residential Non-Electricity Heating Source": "Natural Gas"
+            },
+            {
+                "CO2 Emissions Weighted by Percentage of Fuel Mix": 60.173698082739186,
+                "Kg CO2 emissions/ MMBtu": 62.88,
+                "Percentage Of New Total (less 'Other')": 0.9569608473718063,
+                "Residential Non-Electricity Heating Source": "Propane"
+            },
+            {
+                "CO2 Emissions Weighted by Percentage of Fuel Mix": 2.678525652429762,
+                "Kg CO2 emissions/ MMBtu": 73.66499999999999,
+                "Percentage Of New Total (less 'Other')": 0.03636089937459801,
+                "Residential Non-Electricity Heating Source": "Kerosene / Petroleum"
+            },
+            {
+                "CO2 Emissions Weighted by Percentage of Fuel Mix": 0.1951849797664636,
+                "Kg CO2 emissions/ MMBtu": 79.23751125819331,
+                "Percentage Of New Total (less 'Other')": 0.002463290134523011,
+                "Residential Non-Electricity Heating Source": "Biogas"
+            }
+        ],
+        "geonames_id": 1625822,
+        "name": "Surabaya",
+        "notes": "N/A",
+        "parent_hierarchy": [
+            "East Java",
+            "Indonesia",
+            "Asia"
         ],
         "source": "Wikipedia",
         "valid_end_date": "2023-01-01",

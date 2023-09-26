@@ -2,18 +2,12 @@ import pandas as pd
 from feature_collection_ops import *
 from unidecode import unidecode
 
-country_of_interest = 'Mexico'
-country_specific_eui_dataset = 'MX_EUI_CURB_estimates.xlsx'
-ef_dataset = 'Fuel_Mixes.xlsx'
-fuel_mix_dataset = 'Fuel_Mixes.xlsx'
-
 
 # returns {'Municipalities': list of municipality names,
 #          'Residential': dict of {'Municipality': Multiplier}, 
 #          'Commercial': dict of {'Municipality': Multiplier}}
 def get_country_multipliers(country_of_interest, country_specific_euis):
     country_eui = pd.read_excel(country_specific_euis).dropna()
-
     country_res_multipliers = dict(zip(country_eui['City'], 
                                        country_eui['Energy Use Intensity by End Use (kwh/m2/year)']))
     country_comm_multipliers = dict(zip(country_eui['City'], 
@@ -24,13 +18,12 @@ def get_country_multipliers(country_of_interest, country_specific_euis):
             'Commercial Multipliers': country_comm_multipliers}
 
 
-def add_features_from_EUI(data):
-    multipliers = get_country_multipliers(country_of_interest, 
-                                          country_specific_eui_dataset)
+def add_features_from_EUI(data, region_of_interest, eui_dataset_filename):
+    multipliers = get_country_multipliers(region_of_interest, 
+                                          eui_dataset_filename)
     
     for municipality in multipliers['Municipalities']:
         plaintext_municipality = unidecode(municipality)
-        print(plaintext_municipality)
         feature = create_feature(data,
                 plaintext_municipality, 
                'Municipality', 
@@ -48,7 +41,7 @@ def add_features_from_EUI(data):
     return data
 
 
-def ingest_emissions_factors():
+def ingest_emissions_factors(ef_dataset):
     ef = pd.read_excel(ef_dataset, sheet_name='Emissions Factors').dropna()[1:]
     ef = ef.rename(columns={'Carbon Dioxide Emissions Coefficients by Fuel': 'Carbon Dioxide (CO2) Factor', 
                                       'Unnamed: 1': "Pounds CO2 (Per Unit of Volume or Mass)",
@@ -59,10 +52,10 @@ def ingest_emissions_factors():
     return(ef_dict)
 
 
-def add_features_from_ef(data):
-    ef = ingest_emissions_factors()
+def add_features_from_ef(data, ef_dataset):
+    ef = ingest_emissions_factors(ef_dataset)
     feature = create_feature(data,
-                'North America', 
+               'North America', 
                'Continent', 
                ef,
                None,
@@ -79,7 +72,7 @@ def add_features_from_ef(data):
     return data
 
 
-def ingest_fuel_mixes(country_of_interest):
+def ingest_fuel_mixes(fuel_mix_dataset):
     country_fmix = pd.read_excel(fuel_mix_dataset).dropna()[1:]
     country_fmix = country_fmix.rename(columns={'Geographic Area Selection:': 'Residential Non-Electricity Heating Source', 
                                       'Unnamed: 1': "Percentage Of New Total (less 'Other')",
@@ -89,10 +82,10 @@ def ingest_fuel_mixes(country_of_interest):
     return fuel_dict
 
 
-def add_features_from_fuel_mix(data):
-    fuel_mix = ingest_fuel_mixes(country_of_interest)
+def add_features_from_fuel_mix(data, region_of_interest, fuel_mix_dataset):
+    fuel_mix = ingest_fuel_mixes(fuel_mix_dataset)
     feature = create_feature(data,
-                country_of_interest, 
+               region_of_interest, 
                'Country', 
                None,
                fuel_mix,

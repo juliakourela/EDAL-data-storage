@@ -48,7 +48,6 @@ def parent_hierarchy_search(data, child_feature, field):
 
     for x in range(len(parent_hierarchy)):
         parent = parent_hierarchy[x]
-        print(parent)
         filtered_data = list(filter(lambda entry: 
                                     entry['name'] == parent, data))
         if len(filtered_data) != 0:
