@@ -1,5 +1,5 @@
 import pandas as pd
-from create_feature_collection import *
+from feature_collection_ops import *
 from unidecode import unidecode
 
 country_of_interest = 'Mexico'
@@ -31,7 +31,8 @@ def add_features_from_EUI(data):
     for municipality in multipliers['Municipalities']:
         plaintext_municipality = unidecode(municipality)
         print(plaintext_municipality)
-        feature = create_feature(plaintext_municipality, 
+        feature = create_feature(data,
+                plaintext_municipality, 
                'Municipality', 
                None,
                None,
@@ -60,7 +61,8 @@ def ingest_emissions_factors():
 
 def add_features_from_ef(data):
     ef = ingest_emissions_factors()
-    feature = create_feature('North America', 
+    feature = create_feature(data,
+                'North America', 
                'Continent', 
                ef,
                None,
@@ -89,7 +91,8 @@ def ingest_fuel_mixes(country_of_interest):
 
 def add_features_from_fuel_mix(data):
     fuel_mix = ingest_fuel_mixes(country_of_interest)
-    feature = create_feature(country_of_interest, 
+    feature = create_feature(data,
+                country_of_interest, 
                'Country', 
                None,
                fuel_mix,
