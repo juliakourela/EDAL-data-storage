@@ -1,5 +1,6 @@
 import pandas as pd
 
+
 filenames = {'canada1.csv': 
              ['name', 
               'country',
@@ -9,7 +10,7 @@ filenames = {'canada1.csv':
               'boundary', 
               'population', 
               'climate', 
-              'latitute', 
+              'latitute',
               'longitude'], 
 
              'canada2.csv': 
@@ -63,5 +64,13 @@ def to_df(filename, cols):
     return pd.read_csv(filename, usecols=cols)
 
 def create_dataframe(filenames):
-    final_df = None
+    dfs = []
+    for filename, cols in filenames.items():
+        df = to_df(filename, cols)
+        dfs.append(df)
+
+    final_df = pd.concat(dfs, axis=1)
+    return final_df
+
+
 
