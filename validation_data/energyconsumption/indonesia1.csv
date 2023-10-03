@@ -1,0 +1,497 @@
+,name,country,region,geoname,year,boundary,population,climate,latitute,longitude
+0,Kabupaten Aceh Tamiang,Indonesia,Southeast Asia,6701575,2017,City / Municipality,251914,,4.25,97.96667
+1,Kota Administrasi Jakarta Utara,Indonesia,Southeast Asia,1642903,2017,City / Municipality,1645659,,-6.1339,106.8823
+2,Kabupaten Bondowoso,Indonesia,Southeast Asia,6829652,2017,City / Municipality,736772,,-7.9404,113.9834
+3,Kota Mojokerto,Indonesia,Southeast Asia,1635109,2017,City / Municipality,120196,,-7.46667,112.43333
+4,Kabupaten Belitung,Indonesia,Southeast Asia,1649281,2017,City / Municipality,155965,,-2.86667,107.7
+5,Kabupaten Banggai,Indonesia,Southeast Asia,6983688,2017,City / Municipality,323626,,-1.2835,122.8892
+6,Kabupaten Asmat,Indonesia,Southeast Asia,9165711,2017,City / Municipality,76577,,-5.3795,138.46344
+7,Kabupaten Takalar,Indonesia,Southeast Asia,1625545,2017,City / Municipality,269603,,-5.41667,119.51667
+8,Kota Gunungsitoli,Indonesia,Southeast Asia,9846663,2017,City / Municipality,126202,,1.32731,97.55018
+9,Kabupaten Sarolangun,Indonesia,Southeast Asia,1628580,2017,City / Municipality,246245,,-2.3,102.65
+10,Kota Kupang,Indonesia,Southeast Asia,2057084,2017,City / Municipality,336239,,-10.21667,123.6
+11,Tambrauw Regency,Indonesia,Southeast Asia,9845477,2017,City / Municipality,6144,,-0.60515,132.48962
+12,Kabupaten Probolinggo,Indonesia,Southeast Asia,1630633,2017,City / Municipality,1096244,,-7.86667,113.31667
+13,Kabupaten Langkat,Indonesia,Southeast Asia,1214728,2017,City / Municipality,967535,,3.71667,98.21667
+14,Kabupaten Banggai Kepulauan,Indonesia,Southeast Asia,9165691,2017,City / Municipality,171627,,-1.6424,123.54881
+15,Kabupaten Mamuju,Indonesia,Southeast Asia,1636555,2017,City / Municipality,336973,,-2.5,119.41667
+16,Kabupaten Tuban,Indonesia,Southeast Asia,1623178,2017,City / Municipality,1118464,,-6.96667,111.9
+17,Southeast Minahasa Regency,Indonesia,Southeast Asia,9828962,2017,City / Municipality,100443,,1.05633,124.7925
+18,Kabupaten Kolaka Utara,Indonesia,Southeast Asia,9165705,2017,City / Municipality,121340,,-3.10452,121.12427
+19,Kabupaten Asahan,Indonesia,Southeast Asia,1215554,2017,City / Municipality,668272,,2.78333,99.55
+20,Kota Banda Aceh,Indonesia,Southeast Asia,1215501,2017,City / Municipality,223446,,5.54167,95.33333
+21,Kabupaten Paser,Indonesia,Southeast Asia,9843600,2017,City / Municipality,230316,,-1.43517,116.23535
+22,Kabupaten Karo,Indonesia,Southeast Asia,1214929,2017,City / Municipality,350960,,3.11667,98.3
+23,Kabupaten Padang Pariaman,Indonesia,Southeast Asia,1633373,2017,City / Municipality,416460,,-0.6,100.28333
+24,Kota Solok,Indonesia,Southeast Asia,1626645,2017,City / Municipality,59396,,-0.76667,100.61667
+25,Kota Kotamobagu,Indonesia,Southeast Asia,9828036,2017,City / Municipality,107459,,0.68915,124.32678
+26,Tebo Regency,Indonesia,Southeast Asia,9845500,2017,City / Municipality,297735,,-1.45576,102.37473
+27,Mamberamo Raya Regency,Indonesia,Southeast Asia,9828781,2017,City / Municipality,18365,,-2.23561,137.78229
+28,Kota Dumai,Indonesia,Southeast Asia,9821955,2017,City / Municipality,253803,,1.61592,101.4917
+29,Central Bangka Regency,Indonesia,Southeast Asia,9821905,2017,City / Municipality,161228,,-2.33989,106.1142
+30,Pringsewu Regency,Indonesia,Southeast Asia,9844898,2017,City / Municipality,368934,,-5.42211,104.93454
+31,Kabupaten Pasuruan,Indonesia,Southeast Asia,1632032,2017,City / Municipality,1512468,,-7.73333,112.83333
+32,Kabupaten Indramayu,Indonesia,Southeast Asia,1643077,2017,City / Municipality,1663737,,-6.45,108.16667
+33,Kabupaten Barito Selatan,Indonesia,Southeast Asia,1649991,2017,City / Municipality,124128,,-1.86667,114.73333
+34,Kabupaten Seruyan,Indonesia,Southeast Asia,1627443,2017,City / Municipality,139931,,-2.33333,112.25
+35,Kabupaten Pohuwato,Indonesia,Southeast Asia,9165687,2017,City / Municipality,128748,,0.7098,121.59582
+36,Kabupaten Mimika,Indonesia,Southeast Asia,9172049,2017,City / Municipality,182001,,-4.54357,136.56555
+37,Kabupaten Barito Utara,Indonesia,Southeast Asia,1649989,2017,City / Municipality,121573,,-0.98333,115.1
+38,Kabupaten Pati,Indonesia,Southeast Asia,1631990,2017,City / Municipality,1190993,,-6.76667,111.1
+39,Kabupaten Karanganyar,Indonesia,Southeast Asia,6560140,2017,City / Municipality,813196,,-7.62806,111.0625
+40,Kabupaten Sumenep,Indonesia,Southeast Asia,8541464,2017,City / Municipality,1042312,,-7.11667,114.33333
+41,Kota Tidore Kepulauan,Indonesia,Southeast Asia,9845501,2017,City / Municipality,90055,,0.60962,127.56981
+42,Merangin Regency,Indonesia,Southeast Asia,9828959,2017,City / Municipality,333206,,-2.06933,102.13303
+43,West Lombok Regency,Indonesia,Southeast Asia,1637367,2017,City / Municipality,599986,,-8.69583,116.11667
+44,Sorong Regency,Indonesia,Southeast Asia,9845465,2017,City / Municipality,190625,,-0.86507,131.25152
+45,Kabupaten Grobogan,Indonesia,Southeast Asia,1643768,2017,City / Municipality,1308696,,-7.11667,110.91667
+46,Kota Surakarta,Indonesia,Southeast Asia,1625811,2017,City / Municipality,499337,,-7.55,110.81667
+47,Kabupaten Kotawaringin Timur,Indonesia,Southeast Asia,1639475,2017,City / Municipality,374175,,-2.08333,112.75
+48,Kabupaten Kaimana,Indonesia,Southeast Asia,7910905,2017,City / Municipality,46249,,-3.66093,133.77451
+49,Kota Mataram,Indonesia,Southeast Asia,1635881,2017,City / Municipality,402843,,-8.5833,116.1167
+50,Kabupaten Musi Rawas,Indonesia,Southeast Asia,1634643,2017,City / Municipality,525508,,-3.08333,103.2
+51,South Labuhan Batu Regency,Indonesia,Southeast Asia,8611929,2017,City / Municipality,277673,,1.983,100.0976
+52,Kota Madiun,Indonesia,Southeast Asia,1636927,2017,City / Municipality,170964,,-7.63333,111.53333
+53,Puncak Regency,Indonesia,Southeast Asia,9846669,2017,City / Municipality,93218,Warm summer,-4.14204,137.09702
+54,Kutai Kartanegara Regency,Indonesia,Southeast Asia,9828039,2017,City / Municipality,626680,,-0.44019,116.98139
+55,Kabupaten Hulu Sungai Tengah,Indonesia,Southeast Asia,1643245,2017,City / Municipality,243460,,-2.61667,115.41667
+56,Kabupaten Buru,Indonesia,Southeast Asia,9165994,2017,City / Municipality,108445,,-3.32767,126.68413
+57,Kota Cirebon,Indonesia,Southeast Asia,1646168,2017,City / Municipality,296389,,-6.75,108.55
+58,Kabupaten Polewali Mandar,Indonesia,Southeast Asia,1630933,2017,City / Municipality,396120,,-3.3,119.16667
+59,Kabupaten Purwakarta,Indonesia,Southeast Asia,1630340,2017,City / Municipality,852521,,-6.58333,107.45
+60,Kota Administrasi Jakarta Timur,Indonesia,Southeast Asia,1642904,2017,City / Municipality,2693896,,-6.2521,106.884
+61,Kabupaten Barito Timur,Indonesia,Southeast Asia,1649990,2017,City / Municipality,97372,,-1.93333,115.1
+62,Kabupaten Kepulauan Sangihe,Indonesia,Southeast Asia,1628775,2017,City / Municipality,126100,,3.5,125.55
+63,Kabupaten Badung,Indonesia,Southeast Asia,1650818,2017,City / Municipality,543332,,-8.51667,115.2
+64,Kabupaten Tabanan,Indonesia,Southeast Asia,1625707,2017,City / Municipality,420913,,-8.43333,115.06667
+65,Kota Tomohon,Indonesia,Southeast Asia,9846655,2017,City / Municipality,91553,,1.31307,124.83404
+66,Kabupaten Ogan Komering Ulu,Indonesia,Southeast Asia,1633658,2017,City / Municipality,324045,,-4.13333,104.03333
+67,Kabupaten Kepulauan Mentawai,Indonesia,Southeast Asia,8740094,2017,City / Municipality,76173,,1.98917,99.51889
+68,Kabupaten Sinjai,Indonesia,Southeast Asia,1626894,2017,City / Municipality,228879,,-5.21667,120.15
+69,Bima City,Indonesia,Southeast Asia,8659101,2017,City / Municipality,142579,,-8.46728,118.75259
+70,Kota Pangkal Pinang,Indonesia,Southeast Asia,1632653,2017,City / Municipality,174758,,-2.13333,106.13333
+71,Kabupaten Situbondo,Indonesia,Southeast Asia,1632902,2017,City / Municipality,647619,,-7.71667,114.05
+72,Kabupaten Aceh Barat,Indonesia,Southeast Asia,1215636,2017,City / Municipality,173558,,4.45,96.16667
+73,Kabupaten Dairi,Indonesia,Southeast Asia,1215221,2017,City / Municipality,270053,,2.86667,98.23333
+74,Kota Magelang,Indonesia,Southeast Asia,1636882,2017,City / Municipality,118227,,-7.5,110.225
+75,Kota Tanjung Balai,Indonesia,Southeast Asia,1213546,2017,City / Municipality,154445,,2.95833,99.79167
+76,Dompu Regency,Indonesia,Southeast Asia,7057508,2017,City / Municipality,218973,,-8.5094,118.4816
+77,Kota Sabang,Indonesia,Southeast Asia,1214025,2017,City / Municipality,30653,,5.87944,95.33223
+78,Kabupaten Pekalongan,Indonesia,Southeast Asia,6792336,2017,City / Municipality,838621,,-7.0319,109.624
+79,Kota Bengkulu,Indonesia,Southeast Asia,1649148,2017,City / Municipality,308544,,-3.81667,102.31667
+80,Kabupaten Lombok Timur,Indonesia,Southeast Asia,1637365,2017,City / Municipality,1105582,,-8.53333,116.53333
+81,Kota Batam,Indonesia,Southeast Asia,9849917,2017,City / Municipality,944285,,1.05211,104.02851
+82,Kabupaten Teluk Wondama,Indonesia,Southeast Asia,7910908,2017,City / Municipality,26321,,-2.7,134.5
+83,Kabupaten Aceh Jaya,Indonesia,Southeast Asia,6705241,2017,City / Municipality,76782,,4.86,95.64
+84,Kota Kendari,Indonesia,Southeast Asia,1640342,2017,City / Municipality,289966,,-3.98333,122.5
+85,South Bolaang Mongondow Regency,Indonesia,Southeast Asia,9821949,2017,City / Municipality,57001,,0.40912,123.75961
+86,Kabupaten Rejang Lebong,Indonesia,Southeast Asia,1629764,2017,City / Municipality,246787,,-3.43333,102.71667
+87,Kabupaten Cirebon,Indonesia,Southeast Asia,1646169,2017,City / Municipality,2067196,,-6.8,108.56667
+88,Kabupaten Aceh Timur,Indonesia,Southeast Asia,1215631,2017,City / Municipality,360475,,4.63333,97.63333
+89,Kota Pagar Alam,Indonesia,Southeast Asia,7932494,2017,City / Municipality,126181,,-4.13055,103.26822
+90,Kabupaten Kotawaringin Barat,Indonesia,Southeast Asia,1639476,2017,City / Municipality,235803,,-2.4,111.73333
+91,Kabupaten Bantaeng,Indonesia,Southeast Asia,1650183,2017,City / Municipality,176699,,-5.48333,119.98333
+92,Kota Padang,Indonesia,Southeast Asia,1633407,2017,City / Municipality,833562,,-0.98333,100.45
+93,Kabupaten Batang Hari,Indonesia,Southeast Asia,1649863,2017,City / Municipality,241334,,-1.75,103.11667
+94,Kota Tebing Tinggi,Indonesia,Southeast Asia,1213498,2017,City / Municipality,145248,,3.325,99.14167
+95,Nagekeo Regency,Indonesia,Southeast Asia,9828965,2017,City / Municipality,130120,,-8.8721,121.20963
+96,Kota Sungai Penuh,Indonesia,Southeast Asia,9845476,2017,City / Municipality,82293,,-2.10896,101.32175
+97,Kabupaten Sumbawa,Indonesia,Southeast Asia,8594735,2017,City / Municipality,415789,,-8.7439,117.3324
+98,Kota Administrasi Jakarta Barat,Indonesia,Southeast Asia,1642909,2017,City / Municipality,2281945,,-6.1676,106.7673
+99,Kabupaten Sleman,Indonesia,Southeast Asia,6258231,2017,City / Municipality,1093110,,-7.68167,110.32333
+100,Kabupaten Gunung Kidul,Indonesia,Southeast Asia,1643604,2017,City / Municipality,675382,,-7.98333,110.61667
+101,Kabupaten Bener Meriah,Indonesia,Southeast Asia,6712486,2017,City / Municipality,123240,,4.73015,96.86156
+102,Kabupaten Kapuas,Indonesia,Southeast Asia,1641398,2017,City / Municipality,329646,,-2.01667,114.38333
+103,Kabupaten Aceh Utara,Indonesia,Southeast Asia,1215630,2017,City / Municipality,529751,,4.97,97.14
+104,Kabupaten Solok,Indonesia,Southeast Asia,1626646,2017,City / Municipality,348566,,-0.96667,100.81667
+105,West Nias Regency,Indonesia,Southeast Asia,9828978,2017,City / Municipality,81807,,1.05966,97.58606
+106,Kabupaten Boven Digoel,Indonesia,Southeast Asia,9166001,2017,City / Municipality,55784,,-5.70519,140.36349
+107,Kabupaten Manggarai,Indonesia,Southeast Asia,1636422,2017,City / Municipality,292451,,-8.56667,120.41667
+108,Kabupaten Tasikmalaya,Indonesia,Southeast Asia,1624646,2017,City / Municipality,1675675,,-7.5,108.13333
+109,Kabupaten Solok Selatan,Indonesia,Southeast Asia,9165770,2017,City / Municipality,144281,,-1.23333,101.417
+110,Tanggamus Regency,Indonesia,Southeast Asia,9845482,2017,City / Municipality,536613,,-5.38508,104.62349
+111,Kabupaten Bungo,Indonesia,Southeast Asia,7910349,2017,City / Municipality,303135,,-1.50222,101.96
+112,North Toraja Regency,Indonesia,Southeast Asia,9846656,2017,City / Municipality,216762,,-2.92738,119.79218
+113,Kabupaten Brebes,Indonesia,Southeast Asia,1648064,2017,City / Municipality,1733869,,-7.05,108.9
+114,Kabupaten Ogan Ilir,Indonesia,Southeast Asia,9163311,2017,City / Municipality,380904,,-3.43186,104.62727
+115,Kota Prabumulih,Indonesia,Southeast Asia,7932496,2017,City / Municipality,161984,,-3.46202,104.2229
+116,Kabupaten Dharmasraya,Indonesia,Southeast Asia,9166041,2017,City / Municipality,191422,,-1.05,101.367
+117,Kabupaten Tapin,Indonesia,Southeast Asia,1624750,2017,City / Municipality,167877,,-2.91667,115.03333
+118,Kabupaten Gorontalo Utara,Indonesia,Southeast Asia,9165866,2017,City / Municipality,104133,,0.77,122.31667
+119,Kabupaten Pacitan,Indonesia,Southeast Asia,1633438,2017,City / Municipality,540881,,-8.13333,111.16667
+120,Kaur Regency,Indonesia,Southeast Asia,9828030,2017,City / Municipality,107899,,-4.78179,103.36109
+121,Kota Semarang,Indonesia,Southeast Asia,1627893,2017,City / Municipality,1555984,,-7.03333,110.38333
+122,Samosir Regency,Indonesia,Southeast Asia,9162842,2017,City / Municipality,119653,,2.64025,98.71525
+123,Kabupaten Jayawijaya,Indonesia,Southeast Asia,1631789,2017,City / Municipality,196085,Warm summer,-4.08333,139.08333
+124,Kota Pariaman,Indonesia,Southeast Asia,9843591,2017,City / Municipality,79043,,-0.62682,100.12047
+125,Kota Malang,Indonesia,Southeast Asia,1636712,2017,City / Municipality,820243,,-7.975,112.63333
+126,Kota Salatiga,Indonesia,Southeast Asia,6257933,2017,City / Municipality,170332,,-7.33278,110.48333
+127,Kepahiang Regency,Indonesia,Southeast Asia,9828032,2017,City / Municipality,124865,,-3.60194,102.56424
+128,Kota Metro,Indonesia,Southeast Asia,9828960,2017,City / Municipality,145471,,-5.11856,105.29949
+129,Kabupaten Mojokerto,Indonesia,Southeast Asia,1635110,2017,City / Municipality,1025443,,-7.55,112.5
+130,Kabupaten Pidie Jaya,Indonesia,Southeast Asia,8571637,2017,City / Municipality,132956,,5.15,96.21667
+131,Kabupaten Manokwari,Indonesia,Southeast Asia,1636306,2017,City / Municipality,187726,,-0.9,133.75
+132,East Tanjung Jabung Regency,Indonesia,Southeast Asia,9845498,2017,City / Municipality,205272,,-1.13198,103.61755
+133,Kabupaten Gunung Mas,Indonesia,Southeast Asia,1643597,2017,City / Municipality,96990,,-0.95,113.5
+134,Kota Cilegon,Indonesia,Southeast Asia,6758625,2017,City / Municipality,374559,,-6.01667,106.01667
+135,Kabupaten Kuantan Singingi,Indonesia,Southeast Asia,9163118,2017,City / Municipality,292116,,-0.47532,101.45857
+136,Lebong Regency,Indonesia,Southeast Asia,9828041,2017,City / Municipality,99215,,-3.24278,102.3349
+137,Kabupaten Sijunjung,Indonesia,Southeast Asia,8541932,2017,City / Municipality,201823,,-1.1827,101.6056
+138,Kabupaten Rokan Hulu,Indonesia,Southeast Asia,6722476,2017,City / Municipality,474843,,0.88333,100.48333
+139,Kota Administrasi Jakarta Pusat,Indonesia,Southeast Asia,1642908,2017,City / Municipality,902973,,-6.1777,106.8403
+140,Kabupaten Balangan,Indonesia,Southeast Asia,9165684,2017,City / Municipality,112430,,-2.32314,115.62922
+141,Kabupaten Sukabumi,Indonesia,Southeast Asia,1626380,2017,City / Municipality,0,,-7.06667,106.7
+142,Kabupaten Tana Tidung,Indonesia,Southeast Asia,8613361,2017,City / Municipality,15202,,3.55,117.25
+143,Kabupaten Wonosobo,Indonesia,Southeast Asia,6405140,2017,City / Municipality,754883,,-7.36139,109.92667
+144,Kabupaten Minahasa Utara,Indonesia,Southeast Asia,9165868,2017,City / Municipality,188904,,1.4025,124.96
+145,Kabupaten Konawe Selatan,Indonesia,Southeast Asia,9165998,2017,City / Municipality,264587,,-4.19191,122.44854
+146,Kabupaten Wajo,Indonesia,Southeast Asia,1622267,2017,City / Municipality,385109,,-4.0,120.16667
+147,Kabupaten Konawe,Indonesia,Southeast Asia,9165997,2017,City / Municipality,241982,,-3.91717,122.08823
+148,Kabupaten Lumajang,Indonesia,Southeast Asia,1637089,2017,City / Municipality,1006458,,-8.11667,113.15
+149,Kabupaten Tegal,Indonesia,Southeast Asia,1624493,2017,City / Municipality,1394839,,-7.03333,109.16667
+150,Kabupaten Tojo Una-Una,Indonesia,Southeast Asia,9165688,2017,City / Municipality,137810,,-1.2036,121.48201
+151,Kota Yogyakarta,Indonesia,Southeast Asia,1621175,2017,City / Municipality,388627,,-7.8,110.375
+152,Kerinci Regency,Indonesia,Southeast Asia,1640224,2017,City / Municipality,229495,,-2.03333,101.53333
+153,Pangkajene Islands Regency,Indonesia,Southeast Asia,1632723,2017,City / Municipality,305737,,-4.7827,119.5506
+154,Banjar Regency,Indonesia,Southeast Asia,1650231,2017,City / Municipality,506839,,-3.31667,115.08333
+155,Kabupaten Nias Selatan,Indonesia,Southeast Asia,8224057,2017,City / Municipality,289708,,0.77,97.75
+156,Kabupaten Deli Serdang,Indonesia,Southeast Asia,1215200,2017,City / Municipality,1790431,,3.41667,98.66667
+157,Kabupaten Way Kanan,Indonesia,Southeast Asia,9163828,2017,City / Municipality,406123,,-4.44705,104.52753
+158,Kabupaten Kota Baru,Indonesia,Southeast Asia,1639532,2017,City / Municipality,290142,,-3.0,116.0
+159,Kabupaten Lebak,Indonesia,Southeast Asia,1638238,2017,City / Municipality,1204095,,-6.65,106.21667
+160,Kabupaten Teluk Bintuni,Indonesia,Southeast Asia,9166002,2017,City / Municipality,52422,,-1.88037,133.33105
+161,Kabupaten Tanah Datar,Indonesia,Southeast Asia,8594799,2017,City / Municipality,338494,,-0.4555,100.5771
+162,Kabupaten Klaten,Indonesia,Southeast Asia,1639899,2017,City / Municipality,1130047,,-7.68333,110.61667
+163,Kabupaten Banjarnegara,Indonesia,Southeast Asia,6380795,2017,City / Municipality,868913,,-7.35111,109.5875
+164,Kepulauan Meranti Regency,Indonesia,Southeast Asia,9828033,2017,City / Municipality,176290,,0.97488,102.69539
+165,Kabupaten Jembrana,Indonesia,Southeast Asia,1642584,2017,City / Municipality,261638,,-8.3,114.66667
+166,Kota Kediri,Indonesia,Southeast Asia,1640656,2017,City / Municipality,268507,,-7.83333,112.01667
+167,Kabupaten Fakfak,Indonesia,Southeast Asia,6619356,2017,City / Municipality,66828,,-2.92641,132.29608
+168,Kabupaten Lingga,Indonesia,Southeast Asia,8739779,2017,City / Municipality,86244,,0.2,104.61667
+169,Kabupaten Minahasa,Indonesia,Southeast Asia,6755517,2017,City / Municipality,310384,,1.2537,124.83
+170,Kabupaten Tapanuli Tengah,Indonesia,Southeast Asia,1213518,2017,City / Municipality,311232,,1.9,98.66667
+171,Mesuji Regency,Indonesia,Southeast Asia,8552411,2017,City / Municipality,187407,,-4.0439,105.4013
+172,Kabupaten Alor,Indonesia,Southeast Asia,1651608,2017,City / Municipality,190026,,-8.3,124.56667
+173,Southwest Sumba Regency,Indonesia,Southeast Asia,9845472,2017,City / Municipality,284903,,-9.56216,119.08905
+174,Kabupaten Kendal,Indonesia,Southeast Asia,6745680,2017,City / Municipality,905020,,-7.0256,110.1685
+175,Kabupaten Mamasa,Indonesia,Southeast Asia,7910939,2017,City / Municipality,140082,,-2.96492,119.30631
+176,Kabupaten Natuna,Indonesia,Southeast Asia,8740093,2017,City / Municipality,69003,,4.71417,107.97639
+177,Kabupaten Tanah Laut,Indonesia,Southeast Asia,1625166,2017,City / Municipality,296333,,-3.88333,114.86667
+178,Kota Baubau,Indonesia,Southeast Asia,6974096,2017,City / Municipality,136991,,-5.477,122.6166
+179,Kabupaten Blitar,Indonesia,Southeast Asia,1648579,2017,City / Municipality,1116639,,-8.13333,112.25
+180,Kabupaten Empat Lawang,Indonesia,Southeast Asia,9821958,2017,City / Municipality,221176,,3.22667,99.09256
+181,Kabupaten Tabalong,Indonesia,Southeast Asia,1625714,2017,City / Municipality,218620,,-1.88333,115.5
+182,Kabupaten Bombana,Indonesia,Southeast Asia,9170724,2017,City / Municipality,139235,,-4.6257,121.81641
+183,Kabupaten Pinrang,Indonesia,Southeast Asia,1631102,2017,City / Municipality,351118,,-3.61667,119.6
+184,Kabupaten Bintan,Indonesia,Southeast Asia,9034776,2017,City / Municipality,142300,,0.95,104.61944
+185,Kabupaten Lamongan,Indonesia,Southeast Asia,8080464,2017,City / Municipality,1179059,,-7.13333,112.31667
+186,Kota Banjar,Indonesia,Southeast Asia,9855467,2017,City / Municipality,175157,,-7.36996,108.53209
+187,Kota Manado,Indonesia,Southeast Asia,1636543,2017,City / Municipality,410481,,1.51667,124.88333
+188,Kota Bontang,Indonesia,Southeast Asia,9821952,2017,City / Municipality,143683,,0.12526,117.49603
+189,Kabupaten Kolaka,Indonesia,Southeast Asia,1639753,2017,City / Municipality,315232,,-4.08333,121.66667
+190,Kabupaten Rote Ndao,Indonesia,Southeast Asia,9165782,2017,City / Municipality,119908,,-10.73617,123.12054
+191,Kabupaten Buleleng,Indonesia,Southeast Asia,1647803,2017,City / Municipality,624125,,-8.25,114.96667
+192,Kabupaten Berau,Indonesia,Southeast Asia,1649040,2017,City / Municipality,179079,,2.0,117.3
+193,Kabupaten Jember,Indonesia,Southeast Asia,1642587,2017,City / Municipality,2332726,,-8.25,113.65
+194,Rokan Hilir Regency,Indonesia,Southeast Asia,9844900,2017,City / Municipality,553216,,2.16599,100.82514
+195,Kabupaten Lampung Tengah,Indonesia,Southeast Asia,1638532,2017,City / Municipality,1170717,,-4.86667,105.26667
+196,Seluma Regency,Indonesia,Southeast Asia,9845356,2017,City / Municipality,173507,,-3.96644,102.47429
+197,Kabupaten Ogan Komering Ulu Selatan,Indonesia,Southeast Asia,9165989,2017,City / Municipality,318428,,-4.65728,104.00659
+198,Kabupaten Manggarai Barat,Indonesia,Southeast Asia,9165681,2017,City / Municipality,221703,,-8.64484,119.88281
+199,Kabupaten Boalemo,Indonesia,Southeast Asia,9165686,2017,City / Municipality,129253,,0.62689,122.3568
+200,Kota Bukittinggi,Indonesia,Southeast Asia,1647865,2017,City / Municipality,111312,,-0.275,100.375
+201,Kabupaten Lembata,Indonesia,Southeast Asia,9165593,2017,City / Municipality,117829,,-8.41396,123.55225
+202,Tana Toraja Regency,Indonesia,Southeast Asia,1625123,2017,City / Municipality,221081,,-3.0024,119.79655
+203,Tangerang Regency,Indonesia,Southeast Asia,9849891,2017,City / Municipality,1798601,,-6.17944,106.62991
+204,Kabupaten Aceh Barat Daya,Indonesia,Southeast Asia,6701674,2017,City / Municipality,126036,,3.83333,96.88333
+205,Melawi Regency,Indonesia,Southeast Asia,9828958,2017,City / Municipality,178645,,-0.33617,111.698
+206,Kabupaten Muaro Jambi,Indonesia,Southeast Asia,9782270,2017,City / Municipality,342952,,-1.55214,103.82163
+207,Kabupaten Sikka,Indonesia,Southeast Asia,1627182,2017,City / Municipality,300328,,-8.66667,122.36667
+208,Kabupaten Boyolali,Indonesia,Southeast Asia,1648083,2017,City / Municipality,930531,,-7.5,110.7
+209,Kabupaten Kampar,Indonesia,Southeast Asia,6724202,2017,City / Municipality,688204,,0.2344,101.2131
+210,Kabupaten Landak,Indonesia,Southeast Asia,8740062,2017,City / Municipality,329649,,0.42373,109.75917
+211,Kota Tegal,Indonesia,Southeast Asia,6769512,2017,City / Municipality,239599,,-6.8686,109.1129
+212,Kabupaten Sanggau,Indonesia,Southeast Asia,1628799,2017,City / Municipality,408468,,0.25472,110.45
+213,Kota Serang,Indonesia,Southeast Asia,9845383,2017,City / Municipality,577785,,-6.12563,106.14999
+214,Karimun Regency,Indonesia,Southeast Asia,9821909,2017,City / Municipality,212561,,0.80764,103.41911
+215,Kabupaten Jayapura,Indonesia,Southeast Asia,1642655,2017,City / Municipality,111943,,-3.0,139.95
+216,Central Sumba Regency,Indonesia,Southeast Asia,9845473,2017,City / Municipality,62485,,-9.62941,119.61914
+217,Kabupaten Lima Puluh Kota,Indonesia,Southeast Asia,8562628,2017,City / Municipality,348555,,-0.0168,100.5872
+218,Kabupaten Tapanuli Selatan,Indonesia,Southeast Asia,1213519,2017,City / Municipality,263815,,1.51667,99.25
+219,Kabupaten Agam,Indonesia,Southeast Asia,1651856,2017,City / Municipality,454853,,-0.25,100.16667
+220,Kabupaten Aceh Selatan,Indonesia,Southeast Asia,1215634,2017,City / Municipality,202251,,3.16667,97.41667
+221,Kabupaten Karawang,Indonesia,Southeast Asia,1641133,2017,City / Municipality,2127791,,-6.26667,107.41667
+222,Kota Tual,Indonesia,Southeast Asia,9846657,2017,City / Municipality,58082,,-5.64301,132.74935
+223,Kota Lubuklinggau,Indonesia,Southeast Asia,9828042,2017,City / Municipality,201308,,-3.29308,102.85503
+224,Kabupaten Sukoharjo,Indonesia,Southeast Asia,1626271,2017,City / Municipality,824238,,-7.68333,110.83333
+225,Thousand Islands,Indonesia,Southeast Asia,9849799,2017,City / Municipality,21082,,-5.5985,106.55271
+226,North Konawe Regency,Indonesia,Southeast Asia,9828035,2017,City / Municipality,51533,,-3.41552,121.99081
+227,Kota Palopo,Indonesia,Southeast Asia,9843582,2017,City / Municipality,147932,,-2.97841,120.11078
+228,Kabupaten Tapanuli Utara,Indonesia,Southeast Asia,6726149,2017,City / Municipality,279257,,2.0028,99.0707
+229,Kabupaten Pamekasan,Indonesia,Southeast Asia,1632977,2017,City / Municipality,795918,,-7.06667,113.5
+230,Kabupaten Aceh Tengah,Indonesia,Southeast Asia,1215633,2017,City / Municipality,175527,,4.51,96.855
+231,Kabupaten Wonogiri,Indonesia,Southeast Asia,1621430,2017,City / Municipality,928904,,-7.91667,111.0
+232,Dogiyai Regency,Indonesia,Southeast Asia,9821957,2017,City / Municipality,84230,,-4.03186,135.43945
+233,Kabupaten Bekasi,Indonesia,Southeast Asia,1649377,2017,City / Municipality,2630401,,-6.24667,107.10833
+234,Kabupaten Pakpak Bharat,Indonesia,Southeast Asia,6725176,2017,City / Municipality,40505,,2.56667,98.28333
+235,Kota Sawah Lunto,Indonesia,Southeast Asia,1628471,2017,City / Municipality,56866,,-0.6,100.75
+236,Kabupaten Klungkung,Indonesia,Southeast Asia,1639849,2017,City / Municipality,170543,,-8.55,115.4
+237,Kota Pekalongan,Indonesia,Southeast Asia,1631763,2017,City / Municipality,281434,,-6.9,109.68333
+238,Kabupaten Maluku Tenggara,Indonesia,Southeast Asia,1636625,2017,City / Municipality,96442,,-5.75,132.73333
+239,Kabupaten Seram Bagian Barat,Indonesia,Southeast Asia,9165987,2017,City / Municipality,164656,,-3.1027,128.42996
+240,Kabupaten Blora,Indonesia,Southeast Asia,1648567,2017,City / Municipality,838129,,-7.06667,111.38333
+241,Kabupaten Tangerang,Indonesia,Southeast Asia,1625083,2017,City / Municipality,2834376,,-6.2,106.46667
+242,Batubara Regency,Indonesia,Southeast Asia,9821911,2017,City / Municipality,375885,,3.16166,99.52652
+243,Kabupaten Merauke,Indonesia,Southeast Asia,1635387,2017,City / Municipality,195716,,-7.66667,139.66667
+244,Sitaro Islands Regency,Indonesia,Southeast Asia,9846670,2017,City / Municipality,63801,,2.11728,125.37512
+245,Kabupaten Ogan Komering Ulu Timur,Indonesia,Southeast Asia,9166051,2017,City / Municipality,609982,,-3.85679,104.75209
+246,Kabupaten Paniai,Indonesia,Southeast Asia,1632622,2017,City / Municipality,153432,Warm summer,-3.9,136.6
+247,Kabupaten Lampung Selatan,Indonesia,Southeast Asia,7862296,2017,City / Municipality,912490,,-5.4531,104.9877
+248,Kabupaten Gayo Lues,Indonesia,Southeast Asia,8224054,2017,City / Municipality,79560,,3.95,97.39
+249,Karangasem Regency,Indonesia,Southeast Asia,7086954,2017,City / Municipality,396487,,-8.3891,115.5393
+250,East Belitung Regency,Indonesia,Southeast Asia,9821907,2017,City / Municipality,106463,,-2.9627,108.15216
+251,Kota Pematang Siantar,Indonesia,Southeast Asia,1214203,2017,City / Municipality,234698,,2.96667,99.05
+252,Kabupaten Pegunungan Bintang,Indonesia,Southeast Asia,7910943,2017,City / Municipality,65434,Warm summer,-4.52167,140.29541
+253,Kabupaten Pulang Pisau,Indonesia,Southeast Asia,8741175,2017,City / Municipality,120062,,-3.11858,113.8623
+254,Labuhan Batu Regency,Indonesia,Southeast Asia,1214801,2017,City / Municipality,415110,,2.26667,100.1
+255,Kabupaten Bulukumba,Indonesia,Southeast Asia,1647738,2017,City / Municipality,394560,,-5.41667,120.23333
+256,Kota Tarakan,Indonesia,Southeast Asia,8613334,2017,City / Municipality,193370,,3.36667,117.6
+257,Kota Makassar,Indonesia,Southeast Asia,1622785,2017,City / Municipality,1338663,,-5.15,119.45
+258,Kota Medan,Indonesia,Southeast Asia,1214519,2017,City / Municipality,2097610,,3.65,98.66667
+259,Kabupaten Ende,Indonesia,Southeast Asia,9165840,2017,City / Municipality,260605,,-8.84056,121.66389
+260,South Bangka Regency,Indonesia,Southeast Asia,9821904,2017,City / Municipality,172528,,-2.66803,106.01257
+261,Kabupaten Halmahera Tengah,Indonesia,Southeast Asia,1643475,2017,City / Municipality,42815,,0.48056,128.25
+262,Sabu Raijua Regency,Indonesia,Southeast Asia,9844902,2017,City / Municipality,72960,,-10.56286,121.78894
+263,Kabupaten Tulungagung,Indonesia,Southeast Asia,1623079,2017,City / Municipality,990158,,-8.11667,111.91667
+264,Kabupaten Magelang,Indonesia,Southeast Asia,6199035,2017,City / Municipality,1181723,,-7.4275,110.16194
+265,Lahat Regency,Indonesia,Southeast Asia,9166049,2017,City / Municipality,369974,,-3.7864,103.5428
+266,Talaud Islands Regency,Indonesia,Southeast Asia,9828034,2017,City / Municipality,83434,,4.31178,126.78085
+267,Kabupaten Rembang,Indonesia,Southeast Asia,1629746,2017,City / Municipality,591359,,-6.78333,111.46667
+268,Kabupaten Sorong Selatan,Indonesia,Southeast Asia,7910924,2017,City / Municipality,37900,,-1.50495,132.28638
+269,Kabupaten Malang,Indonesia,Southeast Asia,1636713,2017,City / Municipality,2446218,,-8.16667,112.66667
+270,Kabupaten Mempawah,Indonesia,Southeast Asia,1630788,2017,City / Municipality,234021,,0.25,109.16667
+271,Kota Banjar Baru,Indonesia,Southeast Asia,1650216,2017,City / Municipality,199627,,-3.41667,114.83333
+272,North Buton Regency,Indonesia,Southeast Asia,9821954,2017,City / Municipality,54736,,-5.01457,122.93015
+273,Kabupaten Indragiri Hilir,Indonesia,Southeast Asia,1643082,2017,City / Municipality,661779,,-0.33333,103.16667
+274,Kabupaten Kuningan,Indonesia,Southeast Asia,1639093,2017,City / Municipality,1035589,,-7.0,108.55
+275,Kota Sibolga,Indonesia,Southeast Asia,1213854,2017,City / Municipality,84481,,1.73333,98.8
+276,Central Mamberamo Regency,Indonesia,Southeast Asia,9828820,2017,City / Municipality,39537,,-2.46064,138.45245
+277,Kabupaten Ngawi,Indonesia,Southeast Asia,6410477,2017,City / Municipality,817765,,-7.47444,111.33444
+278,Kabupaten Pemalang,Indonesia,Southeast Asia,1631647,2017,City / Municipality,1261353,,-7.03333,109.4
+279,Kabupaten Bangkalan,Indonesia,Southeast Asia,1650297,2017,City / Municipality,906761,,-7.05,112.93333
+280,East Manggarai Regency,Indonesia,Southeast Asia,9828927,2017,City / Municipality,252744,,-8.55533,120.59761
+281,Kabupaten Bantul,Indonesia,Southeast Asia,1650117,2017,City / Municipality,911503,,-7.9,110.36667
+282,Kabupaten Sarmi,Indonesia,Southeast Asia,8531251,2017,City / Municipality,32971,,-2.41667,139.08333
+283,Yalimo Regency,Indonesia,Southeast Asia,9846662,2017,City / Municipality,50763,Warm summer,-3.86037,138.47305
+284,Kota Gorontalo,Indonesia,Southeast Asia,1643836,2017,City / Municipality,180127,,0.53333,123.1
+285,Kabupaten Bandung Barat,Indonesia,Southeast Asia,7910336,2017,City / Municipality,1510284,,-6.83333,107.48333
+286,Kabupaten Barru,Indonesia,Southeast Asia,1649975,2017,City / Municipality,165983,,-4.43333,119.68333
+287,Central Bengkulu Regency,Indonesia,Southeast Asia,9821946,2017,City / Municipality,98333,,-3.20679,102.12616
+288,Kabupaten Lombok Tengah,Indonesia,Southeast Asia,1637366,2017,City / Municipality,860209,,-8.7,116.3
+289,Kota Probolinggo,Indonesia,Southeast Asia,1630632,2017,City / Municipality,217062,,-7.78333,113.21667
+290,Selayar Islands Regency,Indonesia,Southeast Asia,1628015,2017,City / Municipality,122055,,-6.81667,120.8
+291,North Kayong Regency,Indonesia,Southeast Asia,9828031,2017,City / Municipality,95594,,-1.43711,110.79781
+292,Kabupaten Jeneponto,Indonesia,Southeast Asia,1642569,2017,City / Municipality,342700,,-5.63333,119.73333
+293,Kabupaten Temanggung,Indonesia,Southeast Asia,1624237,2017,City / Municipality,708546,,-7.25,110.11667
+294,Kabupaten Katingan,Indonesia,Southeast Asia,1640948,2017,City / Municipality,146439,,-2.06667,113.4
+295,Kabupaten Bone Bolango,Indonesia,Southeast Asia,9165685,2017,City / Municipality,141915,,0.50296,123.27501
+296,Kabupaten Timor Tengah Utara,Indonesia,Southeast Asia,1623839,2017,City / Municipality,229803,,-9.33136,124.51904
+297,Morowali Regency,Indonesia,Southeast Asia,9165694,2017,City / Municipality,206322,,-1.89342,121.25473
+298,Kota Jambi,Indonesia,Southeast Asia,1642857,2017,City / Municipality,531857,,-1.61667,103.65
+299,Kabupaten Belu,Indonesia,Southeast Asia,1649264,2017,City / Municipality,352297,,-9.41258,124.95066
+300,Kota Palangka Raya,Indonesia,Southeast Asia,1633117,2017,City / Municipality,220962,,-1.76979,113.73126
+301,Kabupaten Puncak Jaya,Indonesia,Southeast Asia,9172050,2017,City / Municipality,101148,,-3.67241,137.43896
+302,Kabupaten Halmahera Barat,Indonesia,Southeast Asia,9165708,2017,City / Municipality,100424,,1.41709,127.55264
+303,Kota Depok,Indonesia,Southeast Asia,6751097,2017,City / Municipality,1738570,,-6.4,106.81667
+304,Yahukimo Regency,Indonesia,Southeast Asia,9846659,2017,City / Municipality,164512,,-4.60403,139.58405
+305,Kota Balikpapan,Indonesia,Southeast Asia,1650526,2017,City / Municipality,557579,,-1.16667,116.88333
+306,Kota Pasuruan,Indonesia,Southeast Asia,1632031,2017,City / Municipality,186262,,-7.65,112.9
+307,Kabupaten Ketapang,Indonesia,Southeast Asia,1640126,2017,City / Municipality,427460,,-1.58333,110.5
+308,Deiyai Regency,Indonesia,Southeast Asia,9821956,2017,City / Municipality,62119,,-3.94737,135.95032
+309,Kabupaten Bulungan,Indonesia,Southeast Asia,8613240,2017,City / Municipality,112663,,3.0,117.16667
+310,Kabupaten Keerom,Indonesia,Southeast Asia,8531252,2017,City / Municipality,48536,,-3.3,140.61667
+311,Kabupaten Sragen,Indonesia,Southeast Asia,6266177,2017,City / Municipality,858266,,-7.41278,110.935
+312,Kabupaten Majene,Indonesia,Southeast Asia,1636805,2017,City / Municipality,151107,,-3.15,118.86667
+313,Kabupaten Indragiri Hulu,Indonesia,Southeast Asia,1643081,2017,City / Municipality,363442,,-0.55,102.31667
+314,Kabupaten Kapuas Hulu,Indonesia,Southeast Asia,1641395,2017,City / Municipality,222160,,0.81667,112.76667
+315,Kabupaten Nias,Indonesia,Southeast Asia,1214405,2017,City / Municipality,131377,,1.03333,97.76667
+316,Kabupaten Bengkalis,Indonesia,Southeast Asia,8597074,2017,City / Municipality,498336,,0.9838,102.5096
+317,Kabupaten Nganjuk,Indonesia,Southeast Asia,1634130,2017,City / Municipality,1017030,,-7.6,111.93333
+318,Kabupaten Cianjur,Indonesia,Southeast Asia,6588980,2017,City / Municipality,2171281,,-6.7725,107.08306
+319,Kabupaten Ogan Komering Ilir,Indonesia,Southeast Asia,1633659,2017,City / Municipality,727376,,-3.36667,105.36667
+320,Kabupaten Trenggalek,Indonesia,Southeast Asia,1623250,2017,City / Municipality,674411,,-8.16667,111.61667
+321,Kota Tasikmalaya,Indonesia,Southeast Asia,1624645,2017,City / Municipality,635464,,-7.35,108.21667
+322,North Bolaang Mongondow Regency,Indonesia,Southeast Asia,9821951,2017,City / Municipality,70693,,0.78527,123.41766
+323,Kota Padangsidimpuan,Indonesia,Southeast Asia,9843575,2017,City / Municipality,191531,,1.37375,99.26843
+324,Kabupaten Sambas,Indonesia,Southeast Asia,1628978,2017,City / Municipality,496120,,1.41667,109.33333
+325,Kabupaten Halmahera Timur,Indonesia,Southeast Asia,9165995,2017,City / Municipality,73109,,1.33517,128.48627
+326,Gresik Regency,Indonesia,Southeast Asia,6775904,2017,City / Municipality,1177042,,-7.1933,112.553
+327,Kota Payakumbuh,Indonesia,Southeast Asia,1631904,2017,City / Municipality,116825,,-0.23333,100.63333
+328,Kabupaten Demak,Indonesia,Southeast Asia,6739766,2017,City / Municipality,1055579,,-6.8993,110.6122
+329,Kabupaten Ciamis,Indonesia,Southeast Asia,1647148,2017,City / Municipality,1532504,,-7.28333,108.41667
+330,Kabupaten Kupang,Indonesia,Southeast Asia,2057086,2017,City / Municipality,304548,,-9.91667,123.83333
+331,Kabupaten Tanah Bumbu,Indonesia,Southeast Asia,9780988,2017,City / Municipality,267929,,-3.45413,115.70372
+332,Kabupaten Waropen,Indonesia,Southeast Asia,1621238,2017,City / Municipality,24639,,-2.286,137.01837
+333,Kabupaten Semarang,Indonesia,Southeast Asia,6410701,2017,City / Municipality,930727,,-7.20667,110.44139
+334,Kota Lhokseumawe,Indonesia,Southeast Asia,6719204,2017,City / Municipality,171163,,5.13333,97.06667
+335,Kabupaten Hulu Sungai Utara,Indonesia,Southeast Asia,1643244,2017,City / Municipality,209246,,-2.45,115.13333
+336,Kabupaten Luwu Timur,Indonesia,Southeast Asia,9165704,2017,City / Municipality,243069,,-2.50957,120.3978
+337,Kabupaten Cilacap,Indonesia,Southeast Asia,6384572,2017,City / Municipality,1642107,,-7.57417,108.98861
+338,Lanny Jaya Regency,Indonesia,Southeast Asia,9828040,2017,City / Municipality,148522,Warm summer,-3.91244,138.28766
+339,Kabupaten Kulon Progo,Indonesia,Southeast Asia,7910930,2017,City / Municipality,388869,,-7.645,110.02694
+340,Kabupaten Halmahera Utara,Indonesia,Southeast Asia,9165798,2017,City / Municipality,161847,,1.73194,128.00778
+341,North Nias Regency,Indonesia,Southeast Asia,9843567,2017,City / Municipality,127244,,1.33037,97.31964
+342,Kabupaten Sorong,Indonesia,Southeast Asia,1626541,2017,City / Municipality,70619,,-1.16667,131.5
+343,Kabupaten Hulu Sungai Selatan,Indonesia,Southeast Asia,1643246,2017,City / Municipality,212485,,-2.75,115.2
+344,Kabupaten Sidenreng Rappang,Indonesia,Southeast Asia,1627258,2017,City / Municipality,271911,,-3.85,119.96667
+345,Kabupaten Luwu Utara,Indonesia,Southeast Asia,9165788,2017,City / Municipality,287472,,-2.6,120.25
+346,Nduga Regency,Indonesia,Southeast Asia,9828977,2017,City / Municipality,79053,,-4.45093,138.10089
+347,Kabupaten Pasaman,Indonesia,Southeast Asia,9163115,2017,City / Municipality,253299,,0.42503,99.94606
+348,Kabupaten Bangli,Indonesia,Southeast Asia,1650263,2017,City / Municipality,215353,,-8.28333,115.35
+349,Kabupaten Seram Bagian Timur,Indonesia,Southeast Asia,9165999,2017,City / Municipality,99065,,-3.39851,130.39167
+350,North Mamuju Regency,Indonesia,Southeast Asia,9828890,2017,City / Municipality,134369,,-1.51639,119.42139
+351,Kabupaten Timor Tengah Selatan,Indonesia,Southeast Asia,1623840,2017,City / Municipality,441155,,-9.83333,124.4
+352,Kabupaten Toba Samosir,Indonesia,Southeast Asia,9165769,2017,City / Municipality,173129,,2.39793,99.21678
+353,Kabupaten Sumedang,Indonesia,Southeast Asia,1626102,2017,City / Municipality,1093602,,-6.81667,107.98333
+354,Kabupaten Madiun,Indonesia,Southeast Asia,1636929,2017,City / Municipality,662278,,-7.61667,111.65
+355,Kabupaten Bireuen,Indonesia,Southeast Asia,6729814,2017,City / Municipality,389288,,5.08333,96.58333
+356,Kabupaten Musi Banyuasin,Indonesia,Southeast Asia,1634644,2017,City / Municipality,561458,,-2.41667,103.75
+357,Kabupaten Donggala,Indonesia,Southeast Asia,1645322,2017,City / Municipality,277620,,-0.58333,119.85
+358,Kabupaten Sekadau,Indonesia,Southeast Asia,9166118,2017,City / Municipality,181634,,0.03485,110.95066
+359,Kabupaten Sidoarjo,Indonesia,Southeast Asia,1627252,2017,City / Municipality,1941497,,-7.45,112.7
+360,Kabupaten Aceh Singkil,Indonesia,Southeast Asia,6713333,2017,City / Municipality,102509,,2.41667,97.91667
+361,Kabupaten Pandeglang,Indonesia,Southeast Asia,1632822,2017,City / Municipality,1149610,,-6.63333,105.75
+362,Kabupaten Simalungun,Indonesia,Southeast Asia,1213765,2017,City / Municipality,817720,,2.9,99.0
+363,Kabupaten Purworejo,Indonesia,Southeast Asia,1630324,2017,City / Municipality,695427,,-7.7,109.96667
+364,Kabupaten Minahasa Selatan,Indonesia,Southeast Asia,6698251,2017,City / Municipality,195553,,1.21291,124.59708
+365,North Padang Lawas Regency,Indonesia,Southeast Asia,9821910,2017,City / Municipality,223531,,1.46011,99.67346
+366,Kabupaten Nagan Raya,Indonesia,Southeast Asia,6703019,2017,City / Municipality,139663,,4.16667,96.51667
+367,Kabupaten Bima,Indonesia,Southeast Asia,1648758,2017,City / Municipality,439228,,-8.6,118.61667
+368,Kabupaten Purbalingga,Indonesia,Southeast Asia,6390578,2017,City / Municipality,848952,,-7.28417,109.35028
+369,Kota Administrasi Jakarta Selatan,Indonesia,Southeast Asia,1642905,2017,City / Municipality,2062232,,-6.266,106.8135
+370,Kabupaten Maluku Tengah,Indonesia,Southeast Asia,9165982,2017,City / Municipality,361698,,-3.29167,128.9675
+371,Kota Palembang,Indonesia,Southeast Asia,1633069,2017,City / Municipality,1455284,,-3.0,104.71667
+372,North Lombok Regency,Indonesia,Southeast Asia,8659092,2017,City / Municipality,200072,Warm summer,-8.35214,116.40152
+373,Kota Pontianak,Indonesia,Southeast Asia,1630787,2017,City / Municipality,554764,,-0.08333,109.36667
+374,Kabupaten Gianyar,Indonesia,Southeast Asia,1644098,2017,City / Municipality,469777,,-8.46667,115.28333
+375,Kota Bogor,Indonesia,Southeast Asia,1648470,2017,City / Municipality,950334,,-6.59167,106.8
+376,Kabupaten Aceh Tenggara,Indonesia,Southeast Asia,1215632,2017,City / Municipality,179010,,3.36667,97.7
+377,North Labuhan Batu Regency,Indonesia,Southeast Asia,9821913,2017,City / Municipality,330701,,2.33349,99.63776
+378,Kabupaten Ponorogo,Indonesia,Southeast Asia,1630797,2017,City / Municipality,855281,,-7.93333,111.5
+379,Maybrat Regency,Indonesia,Southeast Asia,9828956,2017,City / Municipality,33081,,-1.2155,132.35092
+380,Kota Cimahi,Indonesia,Southeast Asia,1646446,2017,City / Municipality,541177,,-6.89167,107.55
+381,Kabupaten Magetan,Indonesia,Southeast Asia,6409167,2017,City / Municipality,620442,,-7.64472,111.35917
+382,Kubu Raya Regency,Indonesia,Southeast Asia,9828037,2017,City / Municipality,500970,,0.01637,109.33731
+383,Kota Bitung,Indonesia,Southeast Asia,1648633,2017,City / Municipality,187652,,1.48333,125.15
+384,Kabupaten Bengkayang,Indonesia,Southeast Asia,8740064,2017,City / Municipality,215277,,1.06911,109.66393
+385,Kabupaten Kebumen,Indonesia,Southeast Asia,6376498,2017,City / Municipality,1159926,,-7.63917,109.66056
+386,Intan Jaya Regency,Indonesia,Southeast Asia,9846664,2017,City / Municipality,40490,,-3.41016,136.70837
+387,Kabupaten Maros,Indonesia,Southeast Asia,1636028,2017,City / Municipality,319002,,-5.05,119.71667
+388,Kota Bandar Lampung,Indonesia,Southeast Asia,1624916,2017,City / Municipality,881801,,-5.41667,105.25
+389,Kota Bandung,Indonesia,Southeast Asia,6559695,2017,City / Municipality,2394873,,-6.9175,107.62444
+390,Kota Ternate,Indonesia,Southeast Asia,7910935,2017,City / Municipality,185705,,0.89618,127.31016
+391,Kabupaten Kepulauan Yapen,Indonesia,Southeast Asia,9172045,2017,City / Municipality,82951,,-1.78773,136.27716
+392,Kabupaten Nabire,Indonesia,Southeast Asia,7910937,2017,City / Municipality,129893,,-3.54016,135.55511
+393,Tanjung Pinang,Indonesia,Southeast Asia,9849940,2017,City / Municipality,187359,,0.91683,104.44329
+394,Kabupaten Kudus,Indonesia,Southeast Asia,1639214,2017,City / Municipality,777437,,-6.8,110.86667
+395,Kabupaten Banyumas,Indonesia,Southeast Asia,1650094,2017,City / Municipality,1554527,,-7.45,109.16667
+396,Kabupaten Sumba Barat,Indonesia,Southeast Asia,1626193,2017,City / Municipality,110993,,-9.56667,119.45
+397,Kabupaten Banyu Asin,Indonesia,Southeast Asia,9165775,2017,City / Municipality,750110,,-2.88333,104.38306
+398,Kabupaten Ngada,Indonesia,Southeast Asia,1634193,2017,City / Municipality,142393,,-8.66667,121.0
+399,Kabupaten Lamandau,Indonesia,Southeast Asia,9165993,2017,City / Municipality,63199,,-1.83828,111.2869
+400,Mukomuko Regency,Indonesia,Southeast Asia,9828963,2017,City / Municipality,155753,,-3.07438,101.54766
+401,Kabupaten Sigi,Indonesia,Southeast Asia,9781856,2017,City / Municipality,215030,,-1.385,119.96694
+402,Kabupaten Jombang,Indonesia,Southeast Asia,1642413,2017,City / Municipality,1202407,,-7.55,112.25
+403,Kota Ambon,Indonesia,Southeast Asia,1651530,2017,City / Municipality,331254,,-3.7,128.18333
+404,Kota Palu,Indonesia,Southeast Asia,1633033,2017,City / Municipality,336532,,-0.86972,119.9
+405,Kota Blitar,Indonesia,Southeast Asia,1648578,2017,City / Municipality,131968,,-8.1,112.16667
+406,Kabupaten Murung Raya,Indonesia,Southeast Asia,1634654,2017,City / Municipality,96857,,-0.01667,114.26667
+407,Kabupaten Penajam Paser Utara,Indonesia,Southeast Asia,9165729,2017,City / Municipality,142922,,-1.25,116.83333
+408,Kabupaten Barito Kuala,Indonesia,Southeast Asia,1649992,2017,City / Municipality,276147,,-3.08333,114.61667
+409,Kabupaten Lampung Utara,Indonesia,Southeast Asia,1638531,2017,City / Municipality,584277,,-4.81667,104.8
+410,Kabupaten Mandailing Natal,Indonesia,Southeast Asia,9161518,2017,City / Municipality,404945,,0.78378,99.25495
+411,Kabupaten Bengkulu Utara,Indonesia,Southeast Asia,1649145,2017,City / Municipality,257675,,-3.33333,102.05
+412,Kota Bekasi,Indonesia,Southeast Asia,6599302,2017,City / Municipality,2334871,,-6.28333,106.98333
+413,Kabupaten Pidie,Indonesia,Southeast Asia,8224055,2017,City / Municipality,379108,,5.08,96.11
+414,Kota Surabaya,Indonesia,Southeast Asia,1625820,2017,City / Municipality,2765487,,-7.26667,112.71667
+415,Kabupaten Sintang,Indonesia,Southeast Asia,1626886,2017,City / Municipality,364759,,-0.08333,112.08333
+416,Kabupaten Muna,Indonesia,Southeast Asia,1634727,2017,City / Municipality,268277,,-4.96667,122.66667
+417,Kabupaten Jepara,Indonesia,Southeast Asia,1642545,2017,City / Municipality,1097280,,-6.58333,110.76667
+418,Kota Subulussalam,Indonesia,Southeast Asia,8571638,2017,City / Municipality,67446,,2.75,97.93333
+419,Kota Denpasar,Indonesia,Southeast Asia,1645527,2017,City / Municipality,788589,,-8.66667,115.21663
+420,Kabupaten Gorontalo,Indonesia,Southeast Asia,6960133,2017,City / Municipality,355988,,0.5728,122.2337
+421,Kabupaten Lampung Timur,Indonesia,Southeast Asia,9165778,2017,City / Municipality,951639,,-5.10273,105.68003
+422,Tolikara Regency,Indonesia,Southeast Asia,9846653,2017,City / Municipality,114427,,-3.42661,137.41699
+423,Kota Banjarmasin,Indonesia,Southeast Asia,1650211,2017,City / Municipality,625481,,-3.32444,114.59102
+424,Kota Batu,Indonesia,Southeast Asia,9849812,2017,City / Municipality,190184,Warm summer,-7.83272,112.53751
+425,Kota Sukabumi,Indonesia,Southeast Asia,1626379,2017,City / Municipality,298681,,-6.95,106.93333
+426,Kabupaten Poso,Indonesia,Southeast Asia,1630720,2017,City / Municipality,209228,Warm summer,-1.65,120.5
+427,West Tanjung Jabung Regency,Indonesia,Southeast Asia,9845496,2017,City / Municipality,278741,,-1.1544,103.24402
+428,Kabupaten Bojonegoro,Indonesia,Southeast Asia,1648450,2017,City / Municipality,1209973,,-7.25,111.8
+429,Kota Samarinda,Indonesia,Southeast Asia,1629000,2017,City / Municipality,727500,,-0.43333,117.18333
+430,Kabupaten Luwu,Indonesia,Southeast Asia,6965895,2017,City / Municipality,332482,,-2.5577,121.3242
+431,Kabupaten Batang,Indonesia,Southeast Asia,1649879,2017,City / Municipality,706764,,-7.03333,109.88333
+432,Kota Pekanbaru,Indonesia,Southeast Asia,1631760,2017,City / Municipality,897767,,0.53333,101.46667
+433,Kabupaten Serang,Indonesia,Southeast Asia,1627545,2017,City / Municipality,1402818,,-6.15,106.0
+434,Kabupaten Kepulauan Anambas,Indonesia,Southeast Asia,8740095,2017,City / Municipality,37411,,3.0,106.0
+435,Kabupaten Humbang Hasundutan,Indonesia,Southeast Asia,9162086,2017,City / Municipality,171650,,2.26551,98.50376
+436,Morotai Island Regency,Indonesia,Southeast Asia,9844899,2017,City / Municipality,52697,,2.19924,128.40546
+437,Kota Binjai,Indonesia,Southeast Asia,1648725,2017,City / Municipality,246154,,3.8,108.23333
+438,West Bangka Regency,Indonesia,Southeast Asia,9821906,2017,City / Municipality,175150,,-1.95839,105.53741
+439,South Tangerang,Indonesia,Southeast Asia,9845480,2017,City / Municipality,1290322,,-6.29373,106.71244
+440,Kota Langsa,Indonesia,Southeast Asia,8224053,2017,City / Municipality,148945,,4.47,97.93
+441,Kabupaten Kepulauan Aru,Indonesia,Southeast Asia,9165706,2017,City / Municipality,84138,,-6.17059,134.46991
+442,Kabupaten Lampung Barat,Indonesia,Southeast Asia,9166059,2017,City / Municipality,419037,,-5.14904,104.19309
+443,Buol Regency,Indonesia,Southeast Asia,1647571,2017,City / Municipality,132330,Warm summer,0.75,120.75
+444,Kabupaten Simeulue,Indonesia,Southeast Asia,6704825,2017,City / Municipality,80674,,2.61667,96.08333
+445,Kabupaten Kepulauan Sula,Indonesia,Southeast Asia,9172043,2017,City / Municipality,132524,,-1.8646,125.69046
+446,Tolitoli Regency,Indonesia,Southeast Asia,9846654,2017,City / Municipality,211296,,1.30862,120.88643
+447,Southwest Maluku Regency,Indonesia,Southeast Asia,9828043,2017,City / Municipality,70714,,-7.8296,126.17386
+448,Kabupaten Muara Enim,Indonesia,Southeast Asia,8521769,2017,City / Municipality,716676,,-4.2327,103.6141
+449,Kabupaten Buton,Indonesia,Southeast Asia,1647498,2017,City / Municipality,255712,,-5.31667,122.91667
+450,Kabupaten Subang,Indonesia,Southeast Asia,6581948,2017,City / Municipality,1465157,,-6.50833,107.7025
+451,Kota Jayapura,Indonesia,Southeast Asia,7910936,2017,City / Municipality,256705,,-2.64647,140.77779
+452,Kabupaten Tulangbawang,Indonesia,Southeast Asia,9164018,2017,City / Municipality,397906,,-4.20604,105.57999
+453,Kota Padang Panjang,Indonesia,Southeast Asia,1633374,2017,City / Municipality,47008,,-0.45,100.43333
+454,Kota Singkawang,Indonesia,Southeast Asia,9845433,2017,City / Municipality,186462,,0.90734,109.00103
+455,Kabupaten Biak Numfor,Indonesia,Southeast Asia,8530432,2017,City / Municipality,126798,,-1.03333,136.0
+456,Kabupaten Sukamara,Indonesia,Southeast Asia,9166125,2017,City / Municipality,44952,,-2.62675,111.23681
+457,Kabupaten Bone,Indonesia,Southeast Asia,1648256,2017,City / Municipality,717682,,-4.7,120.13333
+458,East Flores Regency,Indonesia,Southeast Asia,1644743,2017,City / Municipality,232605,,-8.24224,122.96817
+459,West Tulang Bawang Regency,Indonesia,Southeast Asia,9846658,2017,City / Municipality,250707,,-4.43975,105.0444
+460,Kabupaten Enrekang,Indonesia,Southeast Asia,1644905,2017,City / Municipality,190248,,-3.5,119.86667
+461,Kabupaten Sampang,Indonesia,Southeast Asia,1628896,2017,City / Municipality,877772,,-7.05,113.25
+462,Kabupaten Bolaang Mongondow,Indonesia,Southeast Asia,1648339,2017,City / Municipality,213484,,0.75,124.08333
+463,West Sumbawa Regency,Indonesia,Southeast Asia,6984549,2017,City / Municipality,114951,,-8.75159,116.92132
+464,Kabupaten Garut,Indonesia,Southeast Asia,1644408,2017,City / Municipality,2404121,,-7.38333,107.76667
+465,Kabupaten Bangka,Indonesia,Southeast Asia,1650314,2017,City / Municipality,277204,,-1.91667,105.93333
+466,Kabupaten Soppeng,Indonesia,Southeast Asia,7063566,2017,City / Municipality,223826,,-4.3842,119.89
+467,Kabupaten Aceh Besar,Indonesia,Southeast Asia,1215635,2017,City / Municipality,351418,,5.38333,95.51667
+468,Kabupaten Sumba Timur,Indonesia,Southeast Asia,1626190,2017,City / Municipality,227732,,-9.88333,120.25
+469,Kabupaten Pesisir Selatan,Indonesia,Southeast Asia,1631300,2017,City / Municipality,429246,,-1.58333,100.85
+470,Kabupaten Kediri,Indonesia,Southeast Asia,1640657,2017,City / Municipality,1499768,,-7.83333,112.16667
+471,Wakatobi Regency,Indonesia,Southeast Asia,9165996,2017,City / Municipality,92995,,-5.31934,123.5948
+472,Kabupaten Bandung,Indonesia,Southeast Asia,1650352,2017,City / Municipality,3178543,,-7.1,107.6
+473,Padang Lawas Regency,Indonesia,Southeast Asia,9821912,2017,City / Municipality,225259,,1.44684,99.99207
+474,Western Southeast Maluku Regency,Indonesia,Southeast Asia,9828704,2017,City / Municipality,105341,,-7.61186,131.38
+475,Pesawaran Regency,Indonesia,Southeast Asia,9843606,2017,City / Municipality,398848,,-5.4298,105.17899
+476,Kota Parepare,Indonesia,Southeast Asia,1632352,2017,City / Municipality,129262,,-4.03333,119.65
+477,Kabupaten Bogor,Indonesia,Southeast Asia,1648471,2017,City / Municipality,4771932,,-6.58333,106.71667
+478,South Buru Regency,Indonesia,Southeast Asia,9821953,2017,City / Municipality,53671,,-3.52187,126.59271
+479,Kabupaten Pelalawan,Indonesia,Southeast Asia,9163207,2017,City / Municipality,301829,,0.20822,102.18607
+480,East Bolaang Mongondow Regency,Indonesia,Southeast Asia,9821950,2017,City / Municipality,63654,,0.72073,124.50256
+481,Kabupaten Mappi,Indonesia,Southeast Asia,9165710,2017,City / Municipality,81658,,-6.49971,139.34441
+482,West Kutai Regency,Indonesia,Southeast Asia,9828038,2017,City / Municipality,165091,,-0.59417,115.51575
+483,Kabupaten Gowa,Indonesia,Southeast Asia,1643807,2017,City / Municipality,652941,,-5.31667,119.75
+484,Kabupaten Serdang Bedagai,Indonesia,Southeast Asia,6715130,2017,City / Municipality,594383,,3.36667,99.03333
+485,Kabupaten Supiori,Indonesia,Southeast Asia,9172047,2017,City / Municipality,15874,,-0.73881,135.61111
+486,Kabupaten Raja Ampat,Indonesia,Southeast Asia,1630210,2017,City / Municipality,42507,,-0.5,130.0
+487,Kabupaten Pasaman Barat,Indonesia,Southeast Asia,9163116,2017,City / Municipality,365129,,0.28152,99.51965
+488,Kabupaten Halmahera Selatan,Indonesia,Southeast Asia,7910927,2017,City / Municipality,198911,,-0.3955,127.90833
+489,Kabupaten Parigi Moutong,Indonesia,Southeast Asia,9165690,2017,City / Municipality,413588,,0.3368,120.17841
+490,Kabupaten Malinau,Indonesia,Southeast Asia,8613353,2017,City / Municipality,62580,,2.45,115.68333
+491,East Kutai Regency,Indonesia,Southeast Asia,9846668,2017,City / Municipality,255637,,1.03769,117.83112
+492,Kabupaten Nunukan,Indonesia,Southeast Asia,8613360,2017,City / Municipality,140841,,4.13333,116.7
+493,Siak Regency,Indonesia,Southeast Asia,9844901,2017,City / Municipality,376742,,0.97453,102.01355
+494,Kabupaten Banyuwangi,Indonesia,Southeast Asia,1650076,2017,City / Municipality,1556078,,-8.33333,114.2
+495,Majalengka Regency,Indonesia,Southeast Asia,1636815,2017,City / Municipality,1171809,,-6.81667,108.28333

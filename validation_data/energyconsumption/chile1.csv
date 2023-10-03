@@ -1,0 +1,347 @@
+,name,country,region,geoname,year,boundary,population,climate,latitute,longitude
+0,Calle Larga,Chile,Latin America & Caribbean,8261246,2016,City / Municipality,14832,Warm summer,-32.95038,-70.54497
+1,Nogales,Chile,Latin America & Caribbean,8261218,2016,City / Municipality,22120,Warm summer,-32.69153,-71.17678
+2,Empedrado,Chile,Latin America & Caribbean,8261298,2016,City / Municipality,4142,Warm summer,-35.61353,-72.2843
+3,Placilla,Chile,Latin America & Caribbean,8261261,2016,City / Municipality,8738,Warm summer,-34.61921,-71.08623
+4,Puerto Octay,Chile,Latin America & Caribbean,8261412,2016,City / Municipality,8999,Warm summer,-40.93357,-72.59939
+5,Panquehue,Chile,Latin America & Caribbean,8261238,2016,City / Municipality,7273,Cold arid,-32.79385,-70.82903
+6,Primavera,Chile,Latin America & Caribbean,8261447,2016,City / Municipality,1158,Cool summer,-52.82019,-69.33352
+7,Rinconada,Chile,Latin America & Caribbean,8261389,2016,City / Municipality,10207,Cold arid,-32.87601,-70.70676
+8,Recoleta,Chile,Latin America & Caribbean,8261417,2016,City / Municipality,157851,Cold arid,-33.40881,-70.63638
+9,Rengo,Chile,Latin America & Caribbean,8261279,2016,City / Municipality,58825,Warm summer,-34.4547,-70.71855
+10,Isla de Maipo,Chile,Latin America & Caribbean,8261364,2016,City / Municipality,36219,Warm summer,-33.74849,-70.94574
+11,Vicuña,Chile,Latin America & Caribbean,8261134,2016,City / Municipality,27771,Cold arid,-29.89203,-70.38267
+12,Teodoro Schmidt,Chile,Latin America & Caribbean,8261371,2016,City / Municipality,15045,Warm summer,-38.98482,-73.11473
+13,Mariquina,Chile,Latin America & Caribbean,8261365,2016,City / Municipality,21278,Warm summer,-39.51307,-73.01962
+14,Santa Maria,Chile,Latin America & Caribbean,8261244,2016,City / Municipality,15241,Cold arid,-32.68552,-70.61033
+15,Collipulli,Chile,Latin America & Caribbean,8261169,2016,City / Municipality,24598,Warm summer,-38.03183,-72.11522
+16,Pinto,Chile,Latin America & Caribbean,8261323,2016,City / Municipality,10827,Warm summer,-36.92137,-71.49935
+17,Curico,Chile,Latin America & Caribbean,8261139,2016,City / Municipality,149136,Warm summer,-35.19914,-70.89573
+18,Lago Ranco,Chile,Latin America & Caribbean,8261367,2016,City / Municipality,9896,Warm summer,-40.37321,-72.16584
+19,Quinta de Toloco,Chile,Latin America & Caribbean,8261273,2016,City / Municipality,13002,Warm summer,-34.35919,-70.99817
+20,Camiña,Chile,Latin America & Caribbean,8261314,2016,City / Municipality,1250,Cold arid,-19.37371,-69.5056
+21,Romeral,Chile,Latin America & Caribbean,8261288,2016,City / Municipality,15187,Warm summer,-35.06832,-70.71123
+22,Lo Prado,Chile,Latin America & Caribbean,8261174,2016,City / Municipality,96249,Cold arid,-33.4473,-70.72348
+23,O Higgins,Chile,Latin America & Caribbean,8261464,2016,City / Municipality,625,Cool summer,-48.48623,-72.91059
+24,Tirúa,Chile,Latin America & Caribbean,8261330,2016,City / Municipality,10417,Warm summer,-38.29753,-73.39568
+25,Tortel,Chile,Latin America & Caribbean,8261362,2016,City / Municipality,523,Cool summer,-48.02714,-74.15923
+26,Osorno,Chile,Latin America & Caribbean,8261411,2016,City / Municipality,161460,Warm summer,-40.6108,-73.08767
+27,Rio Negro,Chile,Latin America & Caribbean,8261409,2016,City / Municipality,14085,Warm summer,-40.77025,-73.41747
+28,Marchihue,Chile,Latin America & Caribbean,8261259,2016,City / Municipality,7308,Warm summer,-34.37266,-71.67164
+29,Peralillo,Chile,Latin America & Caribbean,8261267,2016,City / Municipality,11007,Warm summer,-34.46619,-71.49667
+30,San Javier,Chile,Latin America & Caribbean,8261310,2016,City / Municipality,45547,Warm summer,-35.62902,-71.92712
+31,Mafil,Chile,Latin America & Caribbean,8261458,2016,City / Municipality,7095,Warm summer,-39.69204,-72.86379
+32,Coronel,Chile,Latin America & Caribbean,8261347,2016,City / Municipality,116262,Warm summer,-37.00698,-73.12524
+33,Queilen,Chile,Latin America & Caribbean,8261429,2016,City / Municipality,5385,Warm summer,-42.85572,-73.56436
+34,Penco,Chile,Latin America & Caribbean,8261303,2016,City / Municipality,47367,Warm summer,-36.74842,-72.94369
+35,San Fabian,Chile,Latin America & Caribbean,8261337,2016,City / Municipality,4308,Warm summer,-36.57988,-71.28735
+36,Santa Juana,Chile,Latin America & Caribbean,8261196,2016,City / Municipality,13749,Warm summer,-37.27638,-72.95977
+37,Codegua,Chile,Latin America & Caribbean,8261269,2016,City / Municipality,12988,Warm summer,-34.05738,-70.54715
+38,Lo Barnechea,Chile,Latin America & Caribbean,8261390,2016,City / Municipality,105833,Warm summer,-33.29908,-70.36869
+39,Pencahue,Chile,Latin America & Caribbean,8261297,2016,City / Municipality,8245,Warm summer,-35.32769,-71.81707
+40,Chaiten,Chile,Latin America & Caribbean,8261361,2016,City / Municipality,5071,Cool summer,-43.09407,-72.57585
+41,San Nicolás,Chile,Latin America & Caribbean,8261335,2016,City / Municipality,11603,Warm summer,-36.47978,-72.22823
+42,Quintero,Chile,Latin America & Caribbean,8261233,2016,City / Municipality,31923,Warm summer,-32.84296,-71.47384
+43,Huechuraba,Chile,Latin America & Caribbean,8261432,2016,City / Municipality,98671,Cold arid,-33.36031,-70.63745
+44,Pucon,Chile,Latin America & Caribbean,8261402,2016,City / Municipality,28523,Warm summer,-39.27023,-71.7905
+45,Treguaco,Chile,Latin America & Caribbean,8261143,2016,City / Municipality,5401,Warm summer,-36.42814,-72.65953
+46,Peumo,Chile,Latin America & Caribbean,8261186,2016,City / Municipality,14313,Warm summer,-34.3294,-71.22193
+47,Rio Hurtado,Chile,Latin America & Caribbean,7874689,2016,City / Municipality,4278,Cold arid,-30.26667,-70.66666
+48,Los Vilos,Chile,Latin America & Caribbean,8261193,2016,City / Municipality,21382,Warm summer,-31.9778,-71.30407
+49,Cartagena,Chile,Latin America & Caribbean,8261450,2016,City / Municipality,22738,Warm summer,-33.53378,-71.44241
+50,Vallenar,Chile,Latin America & Caribbean,8261168,2016,City / Municipality,51917,Cold arid,-28.59484,-70.60247
+51,Olmue,Chile,Latin America & Caribbean,8261449,2016,City / Municipality,17516,Warm summer,-33.03575,-71.11069
+52,Machali,Chile,Latin America & Caribbean,8261191,2016,City / Municipality,52505,Polar Tundra,-34.32067,-70.31962
+53,Vitacura,Chile,Latin America & Caribbean,8261380,2016,City / Municipality,85384,Cold arid,-33.37994,-70.57237
+54,Maipu,Chile,Latin America & Caribbean,8261434,2016,City / Municipality,521627,Warm summer,-33.5066,-70.81234
+55,Florida,Chile,Latin America & Caribbean,8261342,2016,City / Municipality,10624,Warm summer,-36.82238,-72.71765
+56,San Juan de la Costa,Chile,Latin America & Caribbean,8261433,2016,City / Municipality,7512,Warm summer,-40.50858,-73.5594
+57,Guaitecas,Chile,Latin America & Caribbean,8261164,2016,City / Municipality,1843,Warm summer,-43.86652,-74.05163
+58,Curepto,Chile,Latin America & Caribbean,8261308,2016,City / Municipality,9448,Warm summer,-35.12966,-71.95329
+59,Caldera,Chile,Latin America & Caribbean,8261223,2016,City / Municipality,17662,Cold arid,-27.1423,-70.68375
+60,Pitrufquen,Chile,Latin America & Caribbean,8261373,2016,City / Municipality,24837,Warm summer,-39.10496,-72.90194
+61,Cobquecura,Chile,Latin America & Caribbean,8261140,2016,City / Municipality,5012,Warm summer,-36.18113,-72.72097
+62,Timaukel,Chile,Latin America & Caribbean,8261181,2016,City / Municipality,405,Polar Tundra,-54.19501,-69.53233
+63,Colina,Chile,Latin America & Caribbean,8261384,2016,City / Municipality,146207,Cold arid,-33.13418,-70.61567
+64,Catemu,Chile,Latin America & Caribbean,8261229,2016,City / Municipality,13998,Cold arid,-32.70727,-70.94523
+65,Temuco,Chile,Latin America & Caribbean,8261311,2016,City / Municipality,282415,Warm summer,-38.67306,-72.66326
+66,Freire,Chile,Latin America & Caribbean,8261381,2016,City / Municipality,24606,Warm summer,-38.94959,-72.57581
+67,Ñuñoa,Chile,Latin America & Caribbean,8261178,2016,City / Municipality,208237,Cold arid,-33.45932,-70.60028
+68,Las Cabras,Chile,Latin America & Caribbean,8261260,2016,City / Municipality,24640,Warm summer,-34.16499,-71.33269
+69,Tiltil,Chile,Latin America & Caribbean,8261453,2016,City / Municipality,19312,Warm summer,-33.06245,-70.87603
+70,La Ligua,Chile,Latin America & Caribbean,8261234,2016,City / Municipality,35390,Cold arid,-32.35369,-71.27212
+71,San Pedro de Atacama,Chile,Latin America & Caribbean,8261210,2016,City / Municipality,10996,Cold arid,-23.40111,-67.91113
+72,Los Angeles,Chile,Latin America & Caribbean,8261144,2016,City / Municipality,202331,Warm summer,-37.40792,-72.32774
+73,Quilleco,Chile,Latin America & Caribbean,8261324,2016,City / Municipality,9587,Warm summer,-37.43685,-71.86141
+74,Olivar,Chile,Latin America & Caribbean,8261282,2016,City / Municipality,13608,Warm summer,-34.21164,-70.82012
+75,Litueche,Chile,Latin America & Caribbean,8261255,2016,City / Municipality,6294,Warm summer,-34.10738,-71.73362
+76,Antofagasta,Chile,Latin America & Caribbean,8261129,2016,City / Municipality,361873,Cold arid,-24.27389,-69.40969
+77,El Quisco,Chile,Latin America & Caribbean,8261225,2016,City / Municipality,15955,Warm summer,-33.41611,-71.65119
+78,Concon,Chile,Latin America & Caribbean,8261183,2016,City / Municipality,42152,Warm summer,-32.95341,-71.46776
+79,Chañaral,Chile,Latin America & Caribbean,8261221,2016,City / Municipality,12219,Cold arid,-26.37369,-70.33828
+80,Chonchi,Chile,Latin America & Caribbean,8261427,2016,City / Municipality,14858,Warm summer,-42.68209,-73.93061
+81,San Ignacio,Chile,Latin America & Caribbean,8261329,2016,City / Municipality,16079,Warm summer,-36.82246,-72.02976
+82,Alhue,Chile,Latin America & Caribbean,8261425,2016,City / Municipality,6444,Warm summer,-34.04303,-71.05662
+83,Llanquihue,Chile,Latin America & Caribbean,8261374,2016,City / Municipality,17591,Warm summer,-41.23815,-73.1396
+84,Copiapó,Chile,Latin America & Caribbean,8261212,2016,City / Municipality,153937,Cold arid,-27.369832026814,-70.318651538086
+85,Licanten,Chile,Latin America & Caribbean,8261286,2016,City / Municipality,6653,Warm summer,-34.97431,-72.06035
+86,Padre Hurtado,Chile,Latin America & Caribbean,8261231,2016,City / Municipality,63250,Warm summer,-33.55717,-70.87082
+87,Ancud,Chile,Latin America & Caribbean,8261160,2016,City / Municipality,38991,Warm summer,-42.01761,-73.8022
+88,Quemchi,Chile,Latin America & Caribbean,8261154,2016,City / Municipality,8352,Warm summer,-42.13385,-73.51723
+89,Saavedra,Chile,Latin America & Caribbean,8261241,2016,City / Municipality,12450,Warm summer,-38.83255,-73.29548
+90,Malloa,Chile,Latin America & Caribbean,8261277,2016,City / Municipality,13407,Warm summer,-34.47619,-70.87342
+91,Laguna Blanca,Chile,Latin America & Caribbean,8261394,2016,City / Municipality,274,Cool summer,-52.3294,-71.23977
+92,Chile Chico,Chile,Latin America & Caribbean,8261446,2016,City / Municipality,4865,Warm summer,-46.76684,-72.58468
+93,El Carmen,Chile,Latin America & Caribbean,8261328,2016,City / Municipality,12044,Warm summer,-36.92509,-71.8469
+94,Villa Alegre,Chile,Latin America & Caribbean,8261292,2016,City / Municipality,16221,Warm summer,-35.68529,-71.68293
+95,Coelemu,Chile,Latin America & Caribbean,8261340,2016,City / Municipality,15995,Warm summer,-36.50512,-72.75035
+96,Porvenir,Chile,Latin America & Caribbean,8261448,2016,City / Municipality,6801,Cool summer,-53.30398,-69.39278
+97,Curacavi,Chile,Latin America & Caribbean,8261456,2016,City / Municipality,32579,Warm summer,-33.36639,-71.08019
+98,Molina,Chile,Latin America & Caribbean,8261189,2016,City / Municipality,45976,Warm summer,-35.35337,-70.90954
+99,Frutillar,Chile,Latin America & Caribbean,8261382,2016,City / Municipality,18428,Warm summer,-41.08716,-73.09563
+100,Lo Espejo,Chile,Latin America & Caribbean,8261156,2016,City / Municipality,98804,Warm summer,-33.52086,-70.69006
+101,San Rosendo,Chile,Latin America & Caribbean,8261349,2016,City / Municipality,3412,Warm summer,-37.21303,-72.72112
+102,Lebu,Chile,Latin America & Caribbean,8261150,2016,City / Municipality,25522,Warm summer,-37.67776,-73.59057
+103,Puerto Montt,Chile,Latin America & Caribbean,8261383,2016,City / Municipality,245902,Warm summer,-41.48917,-72.79531
+104,Futaleufu,Chile,Latin America & Caribbean,8261437,2016,City / Municipality,2623,Cool summer,-43.18115,-72.00706
+105,Maria Elena,Chile,Latin America & Caribbean,8261208,2016,City / Municipality,6457,Cold arid,-22.09044,-69.46128
+106,Cerillos,Chile,Latin America & Caribbean,8261369,2016,City / Municipality,80832,Warm summer,-33.50027,-70.71742
+107,Cunco,Chile,Latin America & Caribbean,8261376,2016,City / Municipality,17526,Warm summer,-38.97704,-71.99173
+108,Cabo de Hornos,Chile,Latin America & Caribbean,8261179,2016,City / Municipality,2063,Polar Tundra,-55.02252,-69.22825
+109,Lago Verde,Chile,Latin America & Caribbean,8261161,2016,City / Municipality,852,Cool summer,-44.49229,-71.83234
+110,Limache,Chile,Latin America & Caribbean,8261200,2016,City / Municipality,46121,Warm summer,-33.03087,-71.27927
+111,Rauco,Chile,Latin America & Caribbean,8261289,2016,City / Municipality,10484,Warm summer,-34.93821,-71.42639
+112,La Union,Chile,Latin America & Caribbean,8261355,2016,City / Municipality,38036,Warm summer,-40.20131,-73.22227
+113,Constitucion,Chile,Latin America & Caribbean,8261313,2016,City / Municipality,46068,Warm summer,-35.36306,-72.27618
+114,Huara,Chile,Latin America & Caribbean,8261206,2016,City / Municipality,2730,Cold arid,-19.53591,-69.98482
+115,Portezuelo,Chile,Latin America & Caribbean,8261312,2016,City / Municipality,4862,Warm summer,-36.54644,-72.46651
+116,Yumbel,Chile,Latin America & Caribbean,8261197,2016,City / Municipality,21198,Warm summer,-37.08838,-72.61595
+117,Ollague,Chile,Latin America & Caribbean,8261205,2016,City / Municipality,321,Cold arid,-21.45663,-68.3134
+118,Yerbas Buenas,Chile,Latin America & Caribbean,8261242,2016,City / Municipality,18081,Warm summer,-35.68918,-71.54444
+119,Comuna de Hualpén,Chile,Latin America & Caribbean,3888526,2016,City / Municipality,91773,Warm summer,-36.78691,-73.10517
+120,San Gregorio,Chile,Latin America & Caribbean,8261452,2016,City / Municipality,799,Cool summer,-52.32231,-70.22721
+121,Buin,Chile,Latin America & Caribbean,8261309,2016,City / Municipality,96614,Warm summer,-33.74808,-70.73934
+122,Tal-Tal,Chile,Latin America & Caribbean,8261130,2016,City / Municipality,13317,Cold arid,-25.31359,-69.86568
+123,Corral,Chile,Latin America & Caribbean,8261460,2016,City / Municipality,5302,Warm summer,-39.98488,-73.37152
+124,Talagante,Chile,Latin America & Caribbean,8261332,2016,City / Municipality,74237,Warm summer,-33.68232,-70.89508
+125,Melipilla,Chile,Latin America & Caribbean,8261185,2016,City / Municipality,123627,Warm summer,-33.74388,-71.19396
+126,La Cruz,Chile,Latin America & Caribbean,8261222,2016,City / Municipality,22098,Warm summer,-32.82513,-71.24129
+127,Lampa,Chile,Latin America & Caribbean,8261454,2016,City / Municipality,102034,Cold arid,-33.27776,-70.87484
+128,Los Muermos,Chile,Latin America & Caribbean,8261420,2016,City / Municipality,17068,Warm summer,-41.39804,-73.58258
+129,Lumaco,Chile,Latin America & Caribbean,8261170,2016,City / Municipality,9548,Warm summer,-38.2871,-73.04591
+130,San Esteban,Chile,Latin America & Caribbean,8261243,2016,City / Municipality,18855,Polar Tundra,-32.68592,-70.34835
+131,Chepica,Chile,Latin America & Caribbean,8261274,2016,City / Municipality,15037,Warm summer,-34.79131,-71.35928
+132,Ercilla,Chile,Latin America & Caribbean,8261357,2016,City / Municipality,7733,Warm summer,-38.08283,-72.35346
+133,Chillan,Chile,Latin America & Caribbean,8261195,2016,City / Municipality,184739,Warm summer,-36.6288,-72.04958
+134,Chillán Viejo,Chile,Latin America & Caribbean,8261339,2016,City / Municipality,30907,Warm summer,-36.6803,-72.19896
+135,Arauco,Chile,Latin America & Caribbean,8261302,2016,City / Municipality,36257,Warm summer,-37.28857,-73.39943
+136,Galvarino,Chile,Latin America & Caribbean,8261378,2016,City / Municipality,11996,Warm summer,-38.44794,-72.79119
+137,Rio Claro,Chile,Latin America & Caribbean,8261294,2016,City / Municipality,13906,Warm summer,-35.26092,-71.26946
+138,Monte Patria,Chile,Latin America & Caribbean,8261135,2016,City / Municipality,30751,Cold arid,-30.83522,-70.65093
+139,Freirina,Chile,Latin America & Caribbean,8261215,2016,City / Municipality,7041,Cold arid,-28.84419,-71.19539
+140,Putre,Chile,Latin America & Caribbean,8261463,2016,City / Municipality,2765,Polar Tundra,-18.42869,-69.31158
+141,Antuco,Chile,Latin America & Caribbean,8261322,2016,City / Municipality,4073,Warm summer,-37.32769,-71.36663
+142,Viña del Mar,Chile,Latin America & Caribbean,8261239,2016,City / Municipality,334248,Warm summer,-33.02878,-71.51593
+143,Linares,Chile,Latin America & Caribbean,8261146,2016,City / Municipality,93602,Warm summer,-35.95814,-71.33207
+144,San Jose de Maipo,Chile,Latin America & Caribbean,8261184,2016,City / Municipality,18189,Warm summer,-33.70476,-70.09694
+145,Ñiquen,Chile,Latin America & Caribbean,8261336,2016,City / Municipality,11152,Warm summer,-36.30236,-71.89741
+146,Valparaíso,Chile,Latin America & Caribbean,8261249,2016,City / Municipality,296655,Warm summer,-33.12984,-71.57347
+147,Ovalle,Chile,Latin America & Caribbean,8261224,2016,City / Municipality,111272,Cold arid,-30.674,-71.40617
+148,Mostazal,Chile,Latin America & Caribbean,8261284,2016,City / Municipality,25343,Warm summer,-33.95603,-70.56939
+149,Illapel,Chile,Latin America & Caribbean,8261136,2016,City / Municipality,30848,Cold arid,-31.54927,-70.97061
+150,Bulnes,Chile,Latin America & Caribbean,8261304,2016,City / Municipality,21493,Warm summer,-36.79046,-72.29009
+151,Melipeuco,Chile,Latin America & Caribbean,8261404,2016,City / Municipality,6138,Warm summer,-38.82478,-71.61102
+152,Natales,Chile,Latin America & Caribbean,8261192,2016,City / Municipality,21477,Polar Tundra,-50.67423,-73.92591
+153,Alto del Carmen,Chile,Latin America & Caribbean,8261214,2016,City / Municipality,5299,Cold arid,-28.99355,-70.15298
+154,Futrono,Chile,Latin America & Caribbean,8261366,2016,City / Municipality,14665,Cool summer,-40.11886,-72.11542
+155,Pozo Almonte,Chile,Latin America & Caribbean,8261350,2016,City / Municipality,15711,Cold arid,-20.7702,-69.50453
+156,Arica,Chile,Latin America & Caribbean,8261387,2016,City / Municipality,221364,Hot arid,-18.478691255771,-70.306229780273
+157,Gorbea,Chile,Latin America & Caribbean,8261403,2016,City / Municipality,14414,Warm summer,-39.17173,-72.66922
+158,Negrete,Chile,Latin America & Caribbean,8261343,2016,City / Municipality,9737,Warm summer,-37.60828,-72.57662
+159,San Fernando,Chile,Latin America & Caribbean,8261187,2016,City / Municipality,73973,Warm summer,-34.7433,-70.60328
+160,Cochrane,Chile,Latin America & Caribbean,8261363,2016,City / Municipality,3490,Warm summer,-47.3601,-72.74183
+161,Carahue,Chile,Latin America & Caribbean,8261166,2016,City / Municipality,24533,Warm summer,-38.61092,-73.26976
+162,Llaillay,Chile,Latin America & Caribbean,8261237,2016,City / Municipality,24608,Cold arid,-32.88792,-70.90242
+163,Chimbarongo,Chile,Latin America & Caribbean,8261276,2016,City / Municipality,35399,Warm summer,-34.75166,-70.98106
+164,Castro,Chile,Latin America & Caribbean,8261426,2016,City / Municipality,43807,Warm summer,-42.47414,-73.80405
+165,Rancagua,Chile,Latin America & Caribbean,8261278,2016,City / Municipality,241774,Warm summer,-34.12606,-70.81659
+166,Longavi,Chile,Latin America & Caribbean,8261147,2016,City / Municipality,30534,Warm summer,-36.11066,-71.44116
+167,Chanco,Chile,Latin America & Caribbean,8261295,2016,City / Municipality,8928,Warm summer,-35.69882,-72.48491
+168,Algarrobo,Chile,Latin America & Caribbean,8261201,2016,City / Municipality,13817,Warm summer,-33.33005,-71.60047
+169,Camarones,Chile,Latin America & Caribbean,8261252,2016,City / Municipality,1255,Cold arid,-18.93002,-69.69905
+170,Estacion Central,Chile,Latin America & Caribbean,8261400,2016,City / Municipality,147041,Cold arid,-33.46453,-70.69858
+171,Paine,Chile,Latin America & Caribbean,8261424,2016,City / Municipality,72759,Warm summer,-33.8637,-70.75806
+172,Purranque,Chile,Latin America & Caribbean,8261408,2016,City / Municipality,20369,Warm summer,-40.9351,-73.45825
+173,Punitaqui,Chile,Latin America & Caribbean,8261232,2016,City / Municipality,10956,Cold arid,-30.94635,-71.33308
+174,Diego de Almagro,Chile,Latin America & Caribbean,8261132,2016,City / Municipality,13925,Cold arid,-26.23734,-69.18732
+175,Maulln,Chile,Latin America & Caribbean,8261415,2016,City / Municipality,14216,Warm summer,-41.63242,-73.5083
+176,Lanco,Chile,Latin America & Caribbean,8261462,2016,City / Municipality,16752,Warm summer,-39.51213,-72.6215
+177,Villa Alemana,Chile,Latin America & Caribbean,8261165,2016,City / Municipality,126548,Warm summer,-33.06787,-71.33045
+178,Valdivia,Chile,Latin America & Caribbean,8261461,2016,City / Municipality,166080,Warm summer,-39.818565173305,-73.23482815918
+179,La Cisterna,Chile,Latin America & Caribbean,8261372,2016,City / Municipality,90119,Cold arid,-33.53021,-70.66415
+180,Maria Pinto,Chile,Latin America & Caribbean,8261439,2016,City / Municipality,13590,Warm summer,-33.49811,-71.21077
+181,Putaendo,Chile,Latin America & Caribbean,8261240,2016,City / Municipality,16754,Warm summer,-32.48077,-70.52136
+182,San Felipe,Chile,Latin America & Caribbean,8261220,2016,City / Municipality,76844,Cold arid,-32.73642,-70.75368
+183,Laja,Chile,Latin America & Caribbean,8261353,2016,City / Municipality,22389,Warm summer,-37.31247,-72.58246
+184,Lolol,Chile,Latin America & Caribbean,8261272,2016,City / Municipality,6811,Warm summer,-34.76839,-71.64842
+185,Pirque,Chile,Latin America & Caribbean,8261440,2016,City / Municipality,26521,Warm summer,-33.71865,-70.50658
+186,Cabildo,Chile,Latin America & Caribbean,8261236,2016,City / Municipality,19388,Warm summer,-32.41737,-70.82435
+187,La Florida,Chile,Latin America & Caribbean,8261405,2016,City / Municipality,366916,Cold arid,-33.52857,-70.53957
+188,Quellon,Chile,Latin America & Caribbean,8261176,2016,City / Municipality,27192,Warm summer,-43.15178,-73.9954
+189,Conchali,Chile,Latin America & Caribbean,8261398,2016,City / Municipality,126955,Cold arid,-33.38372,-70.67735
+190,Quinchao,Chile,Latin America & Caribbean,8261422,2016,City / Municipality,8088,Warm summer,-42.64458,-73.27765
+191,San Bernardo,Chile,Latin America & Caribbean,8261438,2016,City / Municipality,301313,Warm summer,-33.62892,-70.72429
+192,Puqueldon,Chile,Latin America & Caribbean,8261167,2016,City / Municipality,3921,Warm summer,-42.62699,-73.63695
+193,Mulchén,Chile,Latin America & Caribbean,8261318,2016,City / Municipality,29627,Warm summer,-37.83837,-72.09717
+194,Navidad,Chile,Latin America & Caribbean,8261253,2016,City / Municipality,6641,Warm summer,-34.01227,-71.82026
+195,San Joaquin,Chile,Latin America & Caribbean,8261419,2016,City / Municipality,94492,Cold arid,-33.49626,-70.62878
+196,Lota,Chile,Latin America & Caribbean,8261348,2016,City / Municipality,43535,Warm summer,-37.11949,-73.1049
+197,Palena,Chile,Latin America & Caribbean,8261360,2016,City / Municipality,1711,Cool summer,-43.6824,-71.98335
+198,Talca Province,Chile,Latin America & Caribbean,8261285,2016,City / Municipality,220357,Warm summer,-35.42804,-71.60282
+199,Contulmo,Chile,Latin America & Caribbean,8261331,2016,City / Municipality,6031,Warm summer,-38.0527,-73.21238
+200,Coyhaique,Chile,Latin America & Caribbean,8261198,2016,City / Municipality,57818,Warm summer,-45.55389,-71.99131
+201,Peñalolen,Chile,Latin America & Caribbean,8261413,2016,City / Municipality,241599,Cold arid,-33.48619,-70.52485
+202,Angol,Chile,Latin America & Caribbean,8261199,2016,City / Municipality,53262,Warm summer,-37.76905,-72.79543
+203,El Tabo,Chile,Latin America & Caribbean,7798677,2016,City / Municipality,13286,Warm summer,-33.45861,-71.66194
+204,Iquique,Chile,Latin America & Caribbean,8261207,2016,City / Municipality,191468,Cold arid,-20.94088,-70.04121
+205,Huailaihue,Chile,Latin America & Caribbean,8261375,2016,City / Municipality,8944,Warm summer,-42.17719,-72.37695
+206,Sagrada Familia,Chile,Latin America & Caribbean,8261287,2016,City / Municipality,18544,Warm summer,-35.10426,-71.49586
+207,Hijuelas,Chile,Latin America & Caribbean,8261442,2016,City / Municipality,17988,Warm summer,-32.86925,-71.08161
+208,Paredones,Chile,Latin America & Caribbean,8261270,2016,City / Municipality,6188,Warm summer,-34.67325,-71.91121
+209,Curaco de Velez,Chile,Latin America & Caribbean,8261430,2016,City / Municipality,3829,Warm summer,-42.42675,-73.57871
+210,Colbun,Chile,Latin America & Caribbean,8261145,2016,City / Municipality,20765,Warm summer,-36.07767,-70.97827
+211,La Granja,Chile,Latin America & Caribbean,8261316,2016,City / Municipality,116571,Cold arid,-33.53538,-70.62227
+212,Providencia,Chile,Latin America & Caribbean,8261414,2016,City / Municipality,142079,Cold arid,-33.43621,-70.60896
+213,Rio Verde,Chile,Latin America & Caribbean,8261180,2016,City / Municipality,617,Polar Tundra,-52.84672,-72.46334
+214,Fresia,Chile,Latin America & Caribbean,8261406,2016,City / Municipality,12261,Warm summer,-41.15442,-73.60649
+215,El Bosque,Chile,Latin America & Caribbean,8261399,2016,City / Municipality,162505,Warm summer,-33.56294,-70.6764
+216,San Ramon,Chile,Latin America & Caribbean,8261158,2016,City / Municipality,82900,Cold arid,-33.53142,-70.6422
+217,El Monte,Chile,Latin America & Caribbean,8261346,2016,City / Municipality,35923,Warm summer,-33.66713,-71.03244
+218,Yungay,Chile,Latin America & Caribbean,8261326,2016,City / Municipality,17787,Warm summer,-37.10445,-71.93081
+219,Pichidegua,Chile,Latin America & Caribbean,8261262,2016,City / Municipality,19714,Warm summer,-34.37121,-71.33941
+220,San Carlos,Chile,Latin America & Caribbean,8261190,2016,City / Municipality,53024,Warm summer,-36.38558,-72.0186
+221,Panguipulli,Chile,Latin America & Caribbean,8261354,2016,City / Municipality,34539,Warm summer,-39.71461,-72.02992
+222,Quillon,Chile,Latin America & Caribbean,8261171,2016,City / Municipality,17485,Warm summer,-36.81855,-72.50171
+223,Graneros,Chile,Latin America & Caribbean,8261271,2016,City / Municipality,33437,Warm summer,-34.06566,-70.74702
+224,Quinta Normal,Chile,Latin America & Caribbean,8261416,2016,City / Municipality,110026,Cold arid,-33.4284,-70.7008
+225,Isla de Pascua,Chile,Latin America & Caribbean,8261466,2016,City / Municipality,7750,,-27.12881,-109.35997
+226,Chilean Antarctic Territory,Chile,Latin America & Caribbean,8261467,2016,City / Municipality,138,Polar Frost,-75.00094,-71.59309
+227,Quilpue,Chile,Latin America & Caribbean,8261204,2016,City / Municipality,151708,Warm summer,-33.14728,-71.25431
+228,Papudo,Chile,Latin America & Caribbean,8261391,2016,City / Municipality,6356,Warm summer,-32.50754,-71.44306
+229,Tierra Amarrilla,Chile,Latin America & Caribbean,8261213,2016,City / Municipality,14019,Cold arid,-27.86566,-69.672
+230,San Rafael,Chile,Latin America & Caribbean,8261293,2016,City / Municipality,9191,Warm summer,-35.30194,-71.50108
+231,Torres del Paine,Chile,Latin America & Caribbean,8261441,2016,City / Municipality,1209,Warm summer,-51.05032,-72.82949
+232,Zapallar,Chile,Latin America & Caribbean,8261247,2016,City / Municipality,7339,Warm summer,-32.55487,-71.45473
+233,Ninhue,Chile,Latin America & Caribbean,8261142,2016,City / Municipality,5213,Warm summer,-36.35684,-72.40969
+234,Cochamo,Chile,Latin America & Caribbean,8261177,2016,City / Municipality,4023,Cool summer,-41.76113,-72.09293
+235,Loncoche,Chile,Latin America & Caribbean,8261401,2016,City / Municipality,23612,Warm summer,-39.35605,-72.58252
+236,Paillaco,Chile,Latin America & Caribbean,8261459,2016,City / Municipality,20188,Warm summer,-40.07411,-72.84362
+237,General Lagos,Chile,Latin America & Caribbean,8261451,2016,City / Municipality,684,Polar Tundra,-17.82862,-69.57494
+238,Paihuano,Chile,Latin America & Caribbean,8261228,2016,City / Municipality,4497,Polar Tundra,-30.23835,-70.3707
+239,Perquenco,Chile,Latin America & Caribbean,8261307,2016,City / Municipality,6905,Warm summer,-38.42834,-72.43653
+240,Lautaro,Chile,Latin America & Caribbean,8261368,2016,City / Municipality,38013,Warm summer,-38.54317,-72.28936
+241,Curacautin,Chile,Latin America & Caribbean,8261386,2016,City / Municipality,17413,Warm summer,-38.43259,-71.77106
+242,Hualqui,Chile,Latin America & Caribbean,8261345,2016,City / Municipality,24333,Warm summer,-37.04472,-72.87038
+243,Coltauco,Chile,Latin America & Caribbean,8261258,2016,City / Municipality,19597,Warm summer,-34.25999,-71.0779
+244,San Pablo,Chile,Latin America & Caribbean,8261435,2016,City / Municipality,10030,Warm summer,-40.42667,-73.16208
+245,Los Andes,Chile,Latin America & Caribbean,8261245,2016,City / Municipality,66708,Polar Tundra,-32.95032,-70.23985
+246,Vilcun,Chile,Latin America & Caribbean,8261385,2016,City / Municipality,28151,Warm summer,-38.7047,-72.1136
+247,Independencia,Chile,Latin America & Caribbean,8261421,2016,City / Municipality,100281,Cold arid,-33.41511,-70.66575
+248,Calama,Chile,Latin America & Caribbean,8261495,2016,City / Municipality,165731,Cold arid,-22.16394,-68.62954
+249,Santiago,Chile,Latin America & Caribbean,8261395,2016,City / Municipality,404495,Cold arid,-33.45406,-70.65599
+250,Cauquenes,Chile,Latin America & Caribbean,8261149,2016,City / Municipality,40441,Warm summer,-35.97135,-72.27998
+251,Nacimiento,Chile,Latin America & Caribbean,8261153,2016,City / Municipality,26315,Warm summer,-37.48555,-72.82361
+252,Teno,Chile,Latin America & Caribbean,8261291,2016,City / Municipality,28921,Warm summer,-34.8879,-71.02239
+253,Puchuncavi,Chile,Latin America & Caribbean,8261248,2016,City / Municipality,18546,Warm summer,-32.71759,-71.41113
+254,Cisnes,Chile,Latin America & Caribbean,8261163,2016,City / Municipality,6517,Warm summer,-44.45773,-73.13744
+255,Pudahuel,Chile,Latin America & Caribbean,8261436,2016,City / Municipality,230293,Warm summer,-33.42398,-70.85493
+256,Calera de Tango,Chile,Latin America & Caribbean,8261334,2016,City / Municipality,25392,Warm summer,-33.62344,-70.79039
+257,San Antonio,Chile,Latin America & Caribbean,8261250,2016,City / Municipality,91350,Warm summer,-33.57096,-71.60957
+258,La Reina,Chile,Latin America & Caribbean,8261410,2016,City / Municipality,92787,Cold arid,-33.44858,-70.53577
+259,Padre Las Casas,Chile,Latin America & Caribbean,8261351,2016,City / Municipality,76126,Warm summer,-38.79198,-72.57925
+260,Renaico,Chile,Latin America & Caribbean,8261388,2016,City / Municipality,10250,Warm summer,-37.71779,-72.5757
+261,Andacollo,Chile,Latin America & Caribbean,8261217,2016,City / Municipality,11044,Cold arid,-30.26061,-71.10051
+262,Chiguayante,Chile,Latin America & Caribbean,8261344,2016,City / Municipality,85938,Warm summer,-36.90076,-73.00499
+263,Santa Cruz,Chile,Latin America & Caribbean,8261265,2016,City / Municipality,37855,Warm summer,-34.64319,-71.40252
+264,Los Sauces,Chile,Latin America & Caribbean,8261359,2016,City / Municipality,7265,Warm summer,-37.98315,-72.79682
+265,Huasco,Chile,Latin America & Caribbean,8261131,2016,City / Municipality,10149,Cold arid,-28.25842,-71.01778
+266,Renca,Chile,Latin America & Caribbean,8261418,2016,City / Municipality,147151,Cold arid,-33.40209,-70.72793
+267,Canela,Chile,Latin America & Caribbean,8261137,2016,City / Municipality,9093,Cold arid,-31.40191,-71.39442
+268,Quillota,Chile,Latin America & Caribbean,8261275,2016,City / Municipality,90517,Warm summer,-32.9046,-71.27305
+269,Pedro Aguirre Cerda,Chile,Latin America & Caribbean,8261157,2016,City / Municipality,101174,Cold arid,-33.49188,-70.67616
+270,La Serena,Chile,Latin America & Caribbean,8261226,2016,City / Municipality,221054,Cold arid,-29.78924,-71.06117
+271,Calbuco,Chile,Latin America & Caribbean,8261175,2016,City / Municipality,33985,Warm summer,-41.72311,-73.19511
+272,Pica,Chile,Latin America & Caribbean,8261128,2016,City / Municipality,9296,Polar Tundra,-20.47958,-68.91191
+273,Traiguen,Chile,Latin America & Caribbean,8261370,2016,City / Municipality,18843,Warm summer,-38.24708,-72.6551
+274,San Miguel,Chile,Latin America & Caribbean,8261377,2016,City / Municipality,107954,Cold arid,-33.49907,-70.65171
+275,Lonquimay,Chile,Latin America & Caribbean,8261172,2016,City / Municipality,10251,Warm summer,-38.47467,-71.23925
+276,San Clemente,Chile,Latin America & Caribbean,8261188,2016,City / Municipality,43269,Warm summer,-35.71208,-70.84846
+277,Tolten,Chile,Latin America & Caribbean,8261393,2016,City / Municipality,9722,Warm summer,-39.21206,-73.07836
+278,Punta Arenas,Chile,Latin America & Caribbean,8261182,2016,City / Municipality,131592,Polar Tundra,-53.092245728373,-70.951384849322
+279,Los Alamos,Chile,Latin America & Caribbean,8261301,2016,City / Municipality,21035,Warm summer,-37.67359,-73.35687
+280,Cholchol,Chile,Latin America & Caribbean,8261379,2016,City / Municipality,11611,Warm summer,-38.58318,-72.90195
+281,Petorca,Chile,Latin America & Caribbean,8261235,2016,City / Municipality,9826,Cold arid,-32.19034,-70.87043
+282,Puren,Chile,Latin America & Caribbean,8261392,2016,City / Municipality,11779,Warm summer,-38.01213,-73.05044
+283,Requinoa,Chile,Latin America & Caribbean,8261281,2016,City / Municipality,27968,Warm summer,-34.33497,-70.65906
+284,La Pintana,Chile,Latin America & Caribbean,8261407,2016,City / Municipality,177335,Warm summer,-33.58426,-70.63758
+285,Colchane,Chile,Latin America & Caribbean,8261296,2016,City / Municipality,1728,Polar Tundra,-19.35311,-68.84698
+286,Alto Hospicio,Chile,Latin America & Caribbean,8261202,2016,City / Municipality,108375,Cold arid,-20.19129,-70.01187
+287,Pelarco,Chile,Latin America & Caribbean,8261290,2016,City / Municipality,8422,Warm summer,-35.38323,-71.3506
+288,Palmilla,Chile,Latin America & Caribbean,8261264,2016,City / Municipality,12482,Warm summer,-34.52817,-71.35285
+289,La Higuera,Chile,Latin America & Caribbean,8261133,2016,City / Municipality,4241,Cold arid,-29.37495,-70.90141
+290,Sierra Gorda,Chile,Latin America & Caribbean,8261211,2016,City / Municipality,10186,Cold arid,-23.2542,-69.30723
+291,Rio Bueno,Chile,Latin America & Caribbean,8261356,2016,City / Municipality,31372,Warm summer,-40.49591,-72.53567
+292,Coquimbo,Chile,Latin America & Caribbean,8261227,2016,City / Municipality,227730,Cold arid,-30.22884,-71.35984
+293,Pumanque,Chile,Latin America & Caribbean,8261268,2016,City / Municipality,3421,Warm summer,-34.59615,-71.69152
+294,Quilicura,Chile,Latin America & Caribbean,8261431,2016,City / Municipality,210410,Cold arid,-33.35542,-70.73607
+295,Curanilahue,Chile,Latin America & Caribbean,8261152,2016,City / Municipality,32288,Warm summer,-37.48301,-73.23511
+296,Nueva Imperial,Chile,Latin America & Caribbean,8261358,2016,City / Municipality,32510,Warm summer,-38.75093,-72.97253
+297,Maule,Chile,Latin America & Caribbean,8261300,2016,City / Municipality,49721,Warm summer,-35.50852,-71.71258
+298,Pichilemu,Chile,Latin America & Caribbean,8261256,2016,City / Municipality,16394,Warm summer,-34.38412,-71.91065
+299,Dalcahue,Chile,Latin America & Caribbean,8261159,2016,City / Municipality,13762,Cool summer,-42.30902,-73.83375
+300,Coinco,Chile,Latin America & Caribbean,8261280,2016,City / Municipality,7359,Warm summer,-34.28221,-70.97105
+301,Tucapel,Chile,Latin America & Caribbean,8261325,2016,City / Municipality,14134,Warm summer,-37.22528,-71.7455
+302,Peñaflor,Chile,Latin America & Caribbean,8261457,2016,City / Municipality,90201,Warm summer,-33.61091,-70.89395
+303,Mejillones,Chile,Latin America & Caribbean,8261203,2016,City / Municipality,13467,Cold arid,-22.93603,-70.19863
+304,Cañete,Chile,Latin America & Caribbean,8261315,2016,City / Municipality,34537,Warm summer,-37.87412,-73.31773
+305,Hualañe,Chile,Latin America & Caribbean,8261333,2016,City / Municipality,9657,Warm summer,-34.95253,-71.70895
+306,Puente Alto,Chile,Latin America & Caribbean,8261423,2016,City / Municipality,568106,Cold arid,-33.59103,-70.55751
+307,Casablanca,Chile,Latin America & Caribbean,8261254,2016,City / Municipality,26867,Warm summer,-33.3158,-71.43531
+308,Calera,Chile,Latin America & Caribbean,8261219,2016,City / Municipality,50554,Warm summer,-32.80765,-71.18805
+309,Rio Ibañez,Chile,Latin America & Caribbean,8261444,2016,City / Municipality,2666,Polar Tundra,-46.2993,-72.48657
+310,Comuna de San Pedro de la Paz,Chile,Latin America & Caribbean,6693571,2016,City / Municipality,131808,Warm summer,-36.84082,-73.10311
+311,Aisen,Chile,Latin America & Caribbean,8261162,2016,City / Municipality,23959,Warm summer,-45.98869,-73.77348
+312,Nancagua,Chile,Latin America & Caribbean,8261266,2016,City / Municipality,17833,Warm summer,-34.66776,-71.19194
+313,Vichquen,Chile,Latin America & Caribbean,8261317,2016,City / Municipality,4322,Warm summer,-34.84101,-72.02277
+314,Santa Barbara,Chile,Latin America & Caribbean,8261321,2016,City / Municipality,13773,Warm summer,-37.62299,-71.74922
+315,Pelluhue,Chile,Latin America & Caribbean,8261306,2016,City / Municipality,7571,Warm summer,-35.91154,-72.60758
+316,Quilaco,Chile,Latin America & Caribbean,8261319,2016,City / Municipality,3988,Warm summer,-37.98196,-71.59733
+317,San Vincente,Chile,Latin America & Caribbean,8261263,2016,City / Municipality,46766,Warm summer,-34.47776,-71.12334
+318,Combarbala,Chile,Latin America & Caribbean,8261230,2016,City / Municipality,13322,Cold arid,-31.1469,-70.96567
+319,Juan Fernández,Chile,Latin America & Caribbean,8261465,2016,City / Municipality,926,,-33.63874,-78.85828
+320,Las Condes,Chile,Latin America & Caribbean,8261428,2016,City / Municipality,294838,Cold arid,-33.42068,-70.50189
+321,La Estrella,Chile,Latin America & Caribbean,8261257,2016,City / Municipality,3041,Warm summer,-34.22331,-71.6026
+322,Cabrero,Chile,Latin America & Caribbean,8261305,2016,City / Municipality,28573,Warm summer,-37.06211,-72.3814
+323,Doñihue,Chile,Latin America & Caribbean,8261283,2016,City / Municipality,20887,Warm summer,-34.19705,-70.92362
+324,Pemuco,Chile,Latin America & Caribbean,8261327,2016,City / Municipality,8448,Warm summer,-36.98295,-72.06754
+325,San Pedro,Chile,Latin America & Caribbean,8261455,2016,City / Municipality,9726,Warm summer,-33.93182,-71.45287
+326,Retiro,Chile,Latin America & Caribbean,8261299,2016,City / Municipality,19974,Warm summer,-36.00231,-71.82927
+327,Victoria,Chile,Latin America & Caribbean,8261352,2016,City / Municipality,34182,Warm summer,-38.28046,-72.23402
+328,Santo Domingo,Chile,Latin America & Caribbean,8261251,2016,City / Municipality,10900,Warm summer,-33.80931,-71.67658
+329,Salamanca,Chile,Latin America & Caribbean,8261138,2016,City / Municipality,29347,Cold arid,-31.89309,-70.66083
+330,Los Lagos,Chile,Latin America & Caribbean,8261445,2016,City / Municipality,19634,Warm summer,-39.8784,-72.5546
+331,Tome,Chile,Latin America & Caribbean,8261151,2016,City / Municipality,54946,Warm summer,-36.61707,-72.85797
+332,Cerro Navia,Chile,Latin America & Caribbean,8261397,2016,City / Municipality,132622,Cold arid,-33.42278,-70.74504
+333,Macul,Chile,Latin America & Caribbean,8261194,2016,City / Municipality,116534,Cold arid,-33.49023,-70.60108
+334,Curarrehue,Chile,Latin America & Caribbean,8261173,2016,City / Municipality,7489,Warm summer,-39.33581,-71.53926
+335,Puyehue,Chile,Latin America & Caribbean,8261443,2016,City / Municipality,11667,Warm summer,-40.72548,-72.3841
+336,Comuna de Talcahuano,Chile,Latin America & Caribbean,6693599,2016,City / Municipality,151749,Warm summer,-36.74342,-73.09822
+337,Villarrica,Chile,Latin America & Caribbean,8261396,2016,City / Municipality,55478,Warm summer,-39.30089,-72.18216
+338,Parral,Chile,Latin America & Caribbean,8261148,2016,City / Municipality,41637,Warm summer,-36.26234,-71.64504
+339,Concepción,Chile,Latin America & Caribbean,6693568,2016,City / Municipality,223574,Warm summer,-36.82,-73.04449
+340,Tocopilla,Chile,Latin America & Caribbean,8261216,2016,City / Municipality,25186,Cold arid,-22.00201,-70.01463
+341,Alto Biobio,Chile,Latin America & Caribbean,8261320,2016,City / Municipality,5923,Warm summer,-37.86539,-71.34738
+342,Coihueco,Chile,Latin America & Caribbean,8261338,2016,City / Municipality,26881,Warm summer,-36.70214,-71.5811
+343,Ranquil,Chile,Latin America & Caribbean,8261341,2016,City / Municipality,5755,Warm summer,-36.64064,-72.58776
+344,Quirihue,Chile,Latin America & Caribbean,8261141,2016,City / Municipality,11594,Warm summer,-36.28192,-72.5441
+345,Puerto Varas,Chile,Latin America & Caribbean,8261155,2016,City / Municipality,44578,Cool summer,-41.19137,-72.38807
