@@ -1,11 +1,16 @@
 import pandas as pd
-import pyarrow.parquet as pa
 import os
 
+
+output_filetype = "csv"
+#output_filetype = "parquet"
+
+input_files_directory = "energyconsumption"
 
 # Any column names commented out will not be loaded 
 # in to the initial dataframe.
 filenames = {
+    # The first input CSV file, containing mostly metadata.
     "1.csv": [
         "name",
         "country",
@@ -18,6 +23,8 @@ filenames = {
         "latitute",
         "longitude",
     ],
+    # The second input CSV file, containing summarized statistics
+    # of direct/indirect CO2 emissions broken down by sector.
     "2.csv": [
         "sector",
         "direct_emissions_tco2e",
@@ -29,6 +36,8 @@ filenames = {
         #"notes",
         "geoname",
     ],
+    # The third input CSV file, containing emissions broken down 
+    # by sector, fuel type, and emission product.
     "3.csv": [
         #"Inventory year",
         #"GPC ref. no.",
@@ -67,8 +76,8 @@ filenames = {
     ],
 }
 
-# Any fuel types commented out will not be included in
-# the output file.
+# Any fuel types/activities commented out will not be 
+# included in the output file.
 valid_fuel_types = ["Electricity",
                     "Diesel oil",
                     "Kerosene",
@@ -80,8 +89,8 @@ valid_fuel_types = ["Electricity",
                     #'District heating - hot water'
                     ]
 
-# Any sectors commented out will not be included in
-# the output file.
+# Any sectors commented out will not be 
+# included in the output file.
 valid_sectors = ["Residential Buildings", 
                  "Commercial Buildings", 
                  "Industry", 
@@ -181,10 +190,7 @@ def aggregate_csvs(dfs, country, output_filetype):
 
 if __name__ == "__main__":
 
-    output_filetype = "csv"
-    #output_filetype = "parquet"
-
-    countries = list(set(map(lambda x: x[:-5], os.listdir('energyconsumption'))))
+    countries = list(set(map(lambda x: x[:-5], os.listdir(input_files_directory))))
     if '.DS_' in countries:
         countries.remove('.DS_')
 
