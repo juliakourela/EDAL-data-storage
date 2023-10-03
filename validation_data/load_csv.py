@@ -1,5 +1,7 @@
 import pandas as pd
+import pyarrow.parquet as pa
 import os
+
 
 filenames = {
     "1.csv": [
@@ -129,7 +131,7 @@ def create_dataframes(country):
     return dfs
 
 
-def aggregate_csvs(dfs, country):
+def aggregate_csvs(dfs, country, output_filetype):
     df1, df2, df3 = dfs[0], dfs[1], dfs[2]
     
     #df2_edited = df2_pivot(df2)
@@ -141,16 +143,21 @@ def aggregate_csvs(dfs, country):
     final_df= pd.merge(df1, df3_edited, on = "geoname", how = "outer")
     final_df.rename(columns={"latitute": "latitude"}, inplace=True)
 
-    final_df.to_csv(f'outputfiles/dpfcdata_{country}.csv')
+    if output_filetype == "parquet":
+        final_df.to_parquet(f'outputfiles/dpfcdata_{country}.parquet')
+    elif output_filetype == "csv":
+        final_df.to_csv(f'outputfiles/dpfcdata_{country}.csv')
 
 
 if __name__ == "__main__":
 
+    output_filetype = "parquet"
+
     countries = list(set(map(lambda x: x[:-5], os.listdir('energyconsumption'))))
     if '.DS_' in countries:
         countries.remove('.DS_')
-
+    
     for country in countries:
         print(country)
         dfs = create_dataframes(country)
-        final_csv = aggregate_csvs(dfs, country)
+        final_csv = aggregate_csvs(dfs, country, output_filetype)
