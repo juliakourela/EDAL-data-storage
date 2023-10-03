@@ -28,5 +28,5 @@ def ingest_polygon_boundaries(polygon_dataset):
         feature_index.append(feature)
     return feature_index
 
-ingest_polygon_boundaries('gadm41_MEX_0.json')
-ingest_polygon_boundaries('gadm41_MEX_1.json')
+ingest_polygon_boundaries('../data/gadm41_MEX_0.json')
+ingest_polygon_boundaries('../data/gadm41_MEX_1.json')

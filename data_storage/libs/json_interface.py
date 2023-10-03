@@ -25,3 +25,4 @@ def create_new_json(filename):
 def data_to_json(data, filename):
     with open(filename, "w") as outfile:
         json.dump(data, outfile, sort_keys=True, indent=4)
+    
