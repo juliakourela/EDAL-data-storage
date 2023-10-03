@@ -5,16 +5,6 @@ from shapely.geometry import mapping, MultiPolygon  # Import mapping function
 from libs.json_interface import *
 from libs.ingest_datasets import *
 
-<<<<<<< HEAD
-
-
-def create_json(filename, filepath):
-    #geojson_data = []
-    #geojson_data += ingest_polygon_boundaries(filepath+'gadm41_MEX_0.json')
-    #geojson_data += ingest_polygon_boundaries(filepath+'gadm41_MEX_1.json')
-
-    #data_to_json(geojson_data, 'polygon_boundaries.json')
-=======
 
 def main():
     filename = "output.json"
@@ -54,7 +44,6 @@ def main():
 
     # data_to_json(geojson_features, "polygon_boundaries.json")
     return
->>>>>>> 097ed0e (Changes to main script to add polygon coordinates)
 
     data = open_json(filename)
 
@@ -74,23 +63,8 @@ def main():
 
     data_to_json(data, filename)
 
-
-<<<<<<< HEAD
-#def create_csv(filename, filepath):
-   # print()
+    return
 
 
-def main():
-    json_filename = 'output.json'
-    filepath = 'data/'
-    create_json(json_filename, filepath)
-    
-
-    
-  
-  
-if __name__=="__main__":
-=======
 if __name__ == "__main__":
->>>>>>> 097ed0e (Changes to main script to add polygon coordinates)
     main()
