@@ -2,8 +2,8 @@ import pandas as pd
 import os
 
 
-output_filetype = "csv"
-#output_filetype = "parquet"
+#output_filetype = "csv"
+output_filetype = "parquet"
 
 input_files_directory = "energyconsumption"
 
@@ -77,7 +77,8 @@ filenames = {
 }
 
 # Any fuel types/activities commented out will not be 
-# included in the output file.
+# included in the output file, or in the combined
+# total of non-electricity emissions for each sector.
 valid_fuel_types = ["Electricity",
                     "Diesel oil",
                     "Kerosene",
@@ -90,7 +91,8 @@ valid_fuel_types = ["Electricity",
                     ]
 
 # Any sectors commented out will not be 
-# included in the output file.
+# included in the output file, or in the combined
+# total of emissions for each fuel type.
 valid_sectors = ["Residential Buildings", 
                  "Commercial Buildings", 
                  "Industry", 
@@ -155,6 +157,9 @@ def df3_pivot(df):
         sum_cols = [col for col in pivot_data.columns if val in col and "electricity" not in col]
         if sum_cols != []:
             pivot_data[f'{val}-total_non_electricity'] = pivot_data[sum_cols].sum(axis=1)
+    
+    cols = pivot_data.columns
+    pivot_data = pivot_data[sorted(cols, key=lambda x: x.split("-")[-1])]
 
     return pivot_data
 
@@ -166,7 +171,7 @@ def to_df(filename, cols):
 def create_dataframes(country):
     dfs = []
     for fn in filenames.keys():
-        dfs.append(to_df('energyconsumption/'+country+fn, filenames[fn]))
+        dfs.append(to_df(input_files_directory+'/'+country+fn, filenames[fn]))
     return dfs
 
 
@@ -185,7 +190,7 @@ def aggregate_csvs(dfs, country, output_filetype):
     if output_filetype == "parquet":
         final_df.to_parquet(f'outputfiles/dpfcdata_{country}.parquet')
     elif output_filetype == "csv":
-        final_df.to_csv(f'outputfiles/dpfcdata_{country}.csv')
+        final_df.to_csv(f'outputfiles/dpfcdata_{country}new.csv')
 
 
 if __name__ == "__main__":
@@ -193,6 +198,8 @@ if __name__ == "__main__":
     countries = list(set(map(lambda x: x[:-5], os.listdir(input_files_directory))))
     if '.DS_' in countries:
         countries.remove('.DS_')
+
+   #countries=['canada']
 
     for country in countries:
         print(country)
