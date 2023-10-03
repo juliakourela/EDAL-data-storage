@@ -3,6 +3,8 @@ import pyarrow.parquet as pa
 import os
 
 
+# Any column names commented out will not be loaded 
+# in to the initial dataframe.
 filenames = {
     "1.csv": [
         "name",
@@ -65,13 +67,30 @@ filenames = {
     ],
 }
 
+# Any fuel types commented out will not be included in
+# the output file.
+valid_fuel_types = ["Electricity",
+                    "Diesel oil",
+                    "Kerosene",
+                    "Natural gas",
+                    "Residual fuel oil",
+                    "Liquefied Petroleum Gas (LPG)",
+                    #"Wood or wood waste",
+                    #'Coal (Bituminous or Black coal)',
+                    #'District heating - hot water'
+                    ]
 
-def to_df(filename, cols):
-    return pd.read_csv(filename, usecols=cols)
+# Any sectors commented out will not be included in
+# the output file.
+valid_sectors = ["Residential Buildings", 
+                 "Commercial Buildings", 
+                 "Industry", 
+                 'Institutional Buildings'
+                 ]
 
 
+# Manipulating the second csv file
 def df2_pivot(df):
-    # manipulating the second csv file
     df["sector"] = df["sector"].str.split(" > ").str[-1].str.split(" & ").str[0]
     pivot_data = df.pivot_table(
         index="geoname",
@@ -87,8 +106,8 @@ def df2_pivot(df):
     return pivot_data
 
 
+# Manipulating the third csv file
 def df3_pivot(df):
-    # manipulating the third csv file
     headers = {"Residential Buildings": "RESIDENTIAL",
                "Commercial Buildings": "COMMERCIAL",
                "Industry": "INDUSTRY",
@@ -103,25 +122,36 @@ def df3_pivot(df):
                'Coal (Bituminous or Black coal)': "coal",
                'District heating - hot water': "district_heating"}
 
-    pivot_data = df.pivot_table(
+    fuel_types_mask = df['Fuel type or activity'].isin(valid_fuel_types)
+    sectors_mask = df['CRF - Sub-sector'].isin(valid_sectors)
+
+    # create columns of CO2 emissions for each sector broken down by fuel type
+    pivot_data = df[fuel_types_mask & sectors_mask].pivot_table(
         index="geoname",
         columns=['CRF - Sub-sector', 'Fuel type or activity'],
         values=["GHGs (metric tonnes CO2e) - Total CO2e"],
         aggfunc="first",
     )
+
     pivot_data.columns = [headers[c[1]] + "-" + headers[c[2]] for c in pivot_data.columns]
 
+    # create columns of combined CO2 emissions for all sectors, broken down by fuel type
     for val in ["electricity", "diesel", "natural_gas", "kerosene", "res_fuel_oil", "lpg", "wood", "coal", "district_heating"]:
         sum_cols = [col for col in pivot_data.columns if val in col]
         if sum_cols != []:
             pivot_data[f'COMBINED-{val}'] = pivot_data[sum_cols].sum(axis=1)
     
+    # create columns of combined CO2 emissions for all non-electricity fuel types, broken down by sector
     for val in ["COMMERCIAL", "RESIDENTIAL", "INDUSTRY", "INSTITUTIONAL", "COMBINED"]:
         sum_cols = [col for col in pivot_data.columns if val in col and "electricity" not in col]
         if sum_cols != []:
             pivot_data[f'{val}-total_non_electricity'] = pivot_data[sum_cols].sum(axis=1)
 
     return pivot_data
+
+
+def to_df(filename, cols):
+    return pd.read_csv(filename, usecols=cols)
 
 
 def create_dataframes(country):
@@ -151,13 +181,14 @@ def aggregate_csvs(dfs, country, output_filetype):
 
 if __name__ == "__main__":
 
-    output_filetype = "parquet"
+    output_filetype = "csv"
+    #output_filetype = "parquet"
 
     countries = list(set(map(lambda x: x[:-5], os.listdir('energyconsumption'))))
     if '.DS_' in countries:
         countries.remove('.DS_')
-    
+
     for country in countries:
         print(country)
         dfs = create_dataframes(country)
-        final_csv = aggregate_csvs(dfs, country, output_filetype)
+        aggregate_csvs(dfs, country, output_filetype)
