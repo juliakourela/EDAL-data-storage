@@ -10,39 +10,25 @@ def main():
     filename = "output.json"
     filepath = "data/"
 
-    geojson_data = []
-    raw_geojson_data = []
-    raw_geojson_data += ingest_polygon_boundaries(filepath + "gadm41_MEX_0.json")
-    # geojson_data += ingest_polygon_boundaries(filepath+'gadm41_MEX_1.json')
-    print("Raw GeoJSON Data:")
-    print(raw_geojson_data)
+    read_file = [
+        "data/gadm41_MEX_0.json",
+        "data/gadm41_MEX_1.json",
+        "data/gadm41_MEX_2.json",
+    ]
 
-    # Construct GeoJSON features directly from the raw GeoJSON data
-    for feature in raw_geojson_data:
-        geojson_data.append(feature)
-
-    print("GeoJSON Data After Conversion:")
-    print(geojson_data)
-
-    # Convert MultiPolygon objects to JSON-serializable format
-    for feature in geojson_data:
-        if "geometry" in feature and "coordinates" in feature["geometry"]:
-            coords = feature["geometry"]["coordinates"]
-            if isinstance(coords, MultiPolygon):
-                # Convert MultiPolygon to a JSON-serializable format
-                feature["geometry"]["coordinates"] = mapping(coords)
-
-    # Construct GeoJSON FeatureCollection
-    geojson_features = {"type": "FeatureCollection", "features": geojson_data}
-
-    print("Final GeoJSON:")
-    print(geojson_features)
-    filename = "polygon_boundaries.json"
-    data = geojson_features
-    with open(filename, "w") as outfile:
-        json.dump(data, outfile, sort_keys=True, indent=4)
-
-    # data_to_json(geojson_features, "polygon_boundaries.json")
+    for idx, file in enumerate(read_file):
+        raw_geojson_data = []
+        raw_geojson_data = ingest_polygon_boundaries(file)
+        for feature in raw_geojson_data:
+            if "geometry" in feature and "coordinates" in feature["geometry"]:
+                coords = feature["geometry"]["coordinates"]
+                if isinstance(coords, MultiPolygon):
+                    # Convert MultiPolygon to a JSON-serializable format
+                    feature["geometry"]["coordinates"] = mapping(coords)
+        # Construct GeoJSON FeatureCollection
+        geojson_features = {"type": "FeatureCollection", "features": raw_geojson_data}
+        filename = f"polygon_boundaries_{idx}.json"
+        data_to_json(geojson_features, filename)
     return
 
     data = open_json(filename)

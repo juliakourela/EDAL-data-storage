@@ -131,3 +131,5 @@ def ingest_polygon_boundaries(polygon_dataset):
                 }}
         feature_index.append(feature)
     return feature_index
+
+def format_raw()
