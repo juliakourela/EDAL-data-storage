@@ -9,7 +9,7 @@ from libs.ingest_datasets import *
 def main():
     filename = "output.json"
     filepath = "data/"
-
+    list_polyfiles = []
     read_file = [
         "data/gadm41_MEX_0.json",
         "data/gadm41_MEX_1.json",
@@ -29,6 +29,8 @@ def main():
         geojson_features = {"type": "FeatureCollection", "features": raw_geojson_data}
         filename = f"polygon_boundaries_{idx}.json"
         data_to_json(geojson_features, filename)
+        list_polyfiles.append(f"polygon_boundaries_{idx}.json")
+        add_polygon_coord(filename, "output.json")
     return
 
     data = open_json(filename)

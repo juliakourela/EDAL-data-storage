@@ -1,5 +1,6 @@
 import pandas as pd
 import geopandas as gpd
+import json
 from .feature_collection_ops import *
 from .geonames_interface import *
 from unidecode import unidecode
@@ -149,3 +150,35 @@ def ingest_polygon_boundaries(polygon_dataset):
         }
         feature_index.append(feature)
     return feature_index
+
+
+def add_polygon_coord(filenames, output_file):
+
+    
+    with open(output_file, "r") as output:
+        output_data = json.load(output)
+
+    for poly_filename in filenames: 
+
+        with open(poly_filename, "r") as polygon_file:
+            polygon_data = json.load(polygon_file)
+    
+        # Create a dictionary to map geonames_id to polygon features
+        geonames_to_polygon = {
+            str(feature["properties"]["geonamesID"]): feature
+            for feature in polygon_data["features"]
+        }
+
+        # Iterate through emissions_data and add polygon coordinates
+        for item in output_data:
+            # Use geonames_id to find the corresponding polygon feature in the dictionary
+            geonames_id = str(item["geonames_id"])
+            polygon_feature = geonames_to_polygon.get(geonames_id)
+
+            if polygon_feature:
+                # Add the "geometry" key with polygon coordinates to the output data
+                item["geometry"] = polygon_feature["geometry"]
+    filename = "combined.json"
+    # Save the combined data to a new JSON file
+    with open(filename, "w") as outfile:
+        json.dump(output_data, outfile, sort_keys=True, indent=4)
