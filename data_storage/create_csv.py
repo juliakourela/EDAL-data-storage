@@ -26,10 +26,10 @@ def add_row(data, name, feature_type,
 
     geonames_id = get_geonames_id('juliakourela', name)
     if geonames_id == None: 
-        return
+        return data
     #print(data.columns)
     if (data['geonames_id'] == geonames_id).any():
-        return
+        return data
     
     new_row = {
         'name': name,
@@ -138,8 +138,8 @@ def main():
     df = add_rows_from_ef(df, filepath+'Emissions_Factors.xlsx')
     df = add_rows_from_fuel_mix(df, 'Mexico', filepath+'MX_Fuel_Mixes.xlsx')
     df = add_rows_from_fuel_mix(df, 'Indonesia', filepath+'ID_Fuel_Mixes.xlsx')
-    #df = add_rows_from_EUI(df, 'Mexico', filepath+'MX_EUI_CURB_estimates.xlsx')
-    #df = add_rows_from_EUI(df, 'Indonesia', filepath+'ID_EUI_CURB_estimates.xlsx')
+    df = add_rows_from_EUI(df, 'Mexico', filepath+'MX_EUI_CURB_estimates.xlsx')
+    df = add_rows_from_EUI(df, 'Indonesia', filepath+'ID_EUI_CURB_estimates.xlsx')
 
     df.to_csv(filename)
     
