@@ -1,12 +1,15 @@
 # EDAL-data-storage
 Storage for geospatial emissions and energy usage data.
 
-
-
-# Validation Data Format
+## Validation Data Format
 
 **Dependencies:** pandas
 
+**Usage:** 
+```python
+python3 validation_data/load_csv.py
+```
+**Properties:** 
 | Property | Description |
 | ------------- | ------------- |
 | name  | Textual descriptor of municipality (string) |
@@ -32,10 +35,15 @@ Storage for geospatial emissions and energy usage data.
 
 **Categories:** Residential, Commercial, Industry, Institutional
 
-# Data Storage Format
+## Data Storage Format
 
 **Dependencies:** pandas, unidecode, geopy, xmltodict
 
+**Usage:** 
+```python
+python3 data_storage/create_csv.py
+```
+**Properties:** 
 | Property | Description |
 | ------------- | ------------- |
 | name  | Textual descriptor of region (string) |
