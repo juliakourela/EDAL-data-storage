@@ -85,9 +85,9 @@ valid_fuel_types = ["Electricity",
                     "Natural gas",
                     "Residual fuel oil",
                     "Liquefied Petroleum Gas (LPG)",
-                    #"Wood or wood waste",
-                    #'Coal (Bituminous or Black coal)',
-                    #'District heating - hot water'
+                    "Wood or wood waste",
+                    'Coal (Bituminous or Black coal)',
+                    'District heating - hot water'
                     ]
 
 # Any sectors commented out will not be 
@@ -143,23 +143,62 @@ def df3_pivot(df):
         values=["GHGs (metric tonnes CO2e) - Total CO2e"],
         aggfunc="first",
     )
-
     pivot_data.columns = [headers[c[1]] + "-" + headers[c[2]] for c in pivot_data.columns]
 
-    # create columns of combined CO2 emissions for all sectors, broken down by fuel type
-    for val in ["electricity", "diesel", "natural_gas", "kerosene", "res_fuel_oil", "lpg", "wood", "coal", "district_heating"]:
-        sum_cols = [col for col in pivot_data.columns if val in col]
+    unused_fueltypes = []
+    unused_categories = []
+
+    all_fueltypes = ["electricity", "diesel", "natural_gas", "kerosene", "res_fuel_oil", "lpg", "wood", "coal", "district_heating"]
+    all_categories = ["COMMERCIAL", "RESIDENTIAL", "INDUSTRY", "INSTITUTIONAL", "COMBINED-NON-RESIDENTIAL"]
+
+    # create columns of combined non-residential (commercial/institutional) CO2 emissions for all sectors, broken down by fuel type
+    for val in all_fueltypes:
+        sum_cols = [col for col in pivot_data.columns if val in col and ("COMMERCIAL" in col or "INSTITUTIONAL" in col)]
         if sum_cols != []:
-            pivot_data[f'COMBINED-{val}'] = pivot_data[sum_cols].sum(axis=1)
+            pivot_data[f'COMBINED-NON-RESIDENTIAL-{val}'] = pivot_data[sum_cols].sum(axis=1)
+        if sum_cols == []:
+            unused_fueltypes.append(val)
     
+    direct_fueltypes = ["diesel", "natural_gas", "kerosene", "res_fuel_oil", "lpg", "coal"]
+    indirect_fueltypes = ["electricity", "wood", "district_heating"]
+
     # create columns of combined CO2 emissions for all non-electricity fuel types, broken down by sector
-    for val in ["COMMERCIAL", "RESIDENTIAL", "INDUSTRY", "INSTITUTIONAL", "COMBINED"]:
+    for val in all_categories:
         sum_cols = [col for col in pivot_data.columns if val in col and "electricity" not in col]
         if sum_cols != []:
             pivot_data[f'{val}-total_non_electricity'] = pivot_data[sum_cols].sum(axis=1)
+        else:
+            unused_categories.append(val)
+    
+    # create columns of aggregated residential/nonresidential CO2 emissions for all direct & indirect emissions
+    for val in ["RESIDENTIAL", "COMBINED-NON-RESIDENTIAL"]:
+        sum_cols_direct = [col for col in pivot_data.columns if val in col and col.split("-")[-1] not in indirect_fueltypes]
+        sum_cols_indirect = [col for col in pivot_data.columns if val in col and col.split("-")[-1] not in indirect_fueltypes]
+        if sum_cols_direct != []:
+            pivot_data[f'{val}-total_direct'] = pivot_data[sum_cols_direct].sum(axis=1)
+        else:
+            unused_categories.append(val)
+        if sum_cols_indirect != []:
+            pivot_data[f'{val}-total_indirect'] = pivot_data[sum_cols_indirect].sum(axis=1)
+        
+
+    # add empty cols for all categories not included in original data
+    for val in unused_categories:
+        for fueltype in [x for x in all_fueltypes if x not in unused_fueltypes]:
+            pivot_data[f'{val}-{fueltype}'] = ''
+
+    # add empty cols for all fueltypes not included in original data
+    for val in unused_fueltypes:
+        pivot_data[f'RESIDENTIAL-{val}'] = ''
+        pivot_data[f'COMMERCIAL-{val}'] = ''
+        pivot_data[f'INDUSTRY-{val}'] = ''
+        pivot_data[f'INSTITUTIONAL-{val}'] = ''
+        pivot_data[f'COMBINED-NON-RESIDENTIAL-{val}'] = ''
     
     cols = pivot_data.columns
     pivot_data = pivot_data[sorted(cols, key=lambda x: x.split("-")[-1])]
+
+    pivot_data = pivot_data[pivot_data.columns.drop(list(pivot_data.filter(regex='total_non_electricity')))]
 
     return pivot_data
 
@@ -187,10 +226,15 @@ def aggregate_csvs(dfs, country, output_filetype):
     final_df= pd.merge(df1, df3_edited, on = "geoname", how = "outer")
     final_df.rename(columns={"latitute": "latitude"}, inplace=True)
 
+    removed_entries = final_df.loc[final_df['RESIDENTIAL-total_direct'] == 0]
+    final_df = final_df.loc[final_df['RESIDENTIAL-total_direct'] != 0]
+
     if output_filetype == "parquet":
         final_df.to_parquet(f'outputfiles/dpfcdata_{country}.parquet')
     elif output_filetype == "csv":
-        final_df.to_csv(f'outputfiles/dpfcdata_{country}new.csv')
+        final_df.to_csv(f'outputfiles/dpfcdata_{country}.csv')
+    
+    return removed_entries
 
 
 if __name__ == "__main__":
@@ -198,10 +242,18 @@ if __name__ == "__main__":
     countries = list(set(map(lambda x: x[:-5], os.listdir(input_files_directory))))
     if '.DS_' in countries:
         countries.remove('.DS_')
+    
+    #countries = ['canada']
 
-   #countries=['canada']
+    all_removed_entries = pd.DataFrame()
 
     for country in countries:
         print(country)
         dfs = create_dataframes(country)
-        aggregate_csvs(dfs, country, output_filetype)
+        
+        removed_entries = aggregate_csvs(dfs, country, output_filetype)
+
+        all_removed_entries = pd.concat([removed_entries, all_removed_entries], axis=0)
+    
+    all_removed_entries.to_csv(f'outputfiles/removed_entries.csv')
+    
