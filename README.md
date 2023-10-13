@@ -1,20 +1,32 @@
 # EDAL-data-storage
-A Jupyter Notebook for storage of geospatial emissions and energy usage data in GeoJSON format.
+Storage for geospatial emissions and energy usage data.
 
 **Dependencies:** pandas, json, geopy
 
-**Properties:**
+**Validation Data Format:**
 
 | Property | Description |
 | ------------- | ------------- |
-| city  | Textual descriptor of city (string) |
-| region  | Textual descriptor of region/state/province (string) |
+| name  | Textual descriptor of municipality (string) |
 | country  | Textual descriptor of country (string) |
-| residential_multiplier  | Multiplier used in determining Energy Use Intensity (EUI) factors for residential areas in region (float) |
-| commercial_multiplier  | Multiplier used in determining Energy Use Intensity (EUI) factors for commercial areas in region (float) |
-| source  | Source from which data was acquired (string) |
-| date_acquired  | Date data was acquired (MM-DD-YYYY) (string) |
-| notes  | Additional notes regarding the data (string) |
+| region  | Textual descriptor of region/state/province (string) |
+| geoname  | GeoNames ID (int) |
+| year  | Multiplier used in determining Energy Use Intensity (EUI) factors for commercial areas in region (float) |
+| boundary  | Type of area (string) |
+| population  | Population of municipality (int) |
+| climate  | Climate of municipality (string) |
+| latitude  | Latitude of municipality (float) |
+| longitude  | Longitude of municipality (float) |
+| CATEGORY-fuel_or_activity_type  | Total CO2 emissions produced by a given fuel or activitity type in a given category (float) |
+| COMBINED-NON-RESIDENTIAL-fuel_or_activity_type  | Sum of total CO2 emissions produced by a given fuel or activitity type in the Commercial & Institutional categories (float) |
+| CATEGORY-total_direct  | Sum ofotal CO2 emissions produced by all direct emissions sources in a given category (float) |
+| CATEGORY-total_indirect  | Sum of total CO2 emissions produced by all indirect emissions sources in a given category |
+| COMBINED-NON-RESIDENTIAL-total_direct  | Sum of total CO2 emissions produced by all direct emissions in the Commercial & Institutional categories (float) |
+| COMBINED-NON-RESIDENTIAL-total_indirect  | Sum of total CO2 emissions produced by all indirect emissions in the Commercial & Institutional categories (float) |
+
+**Direct emissions sources:** coal, diesel, kerosene, lpg, natural_gas, res_fuel_oil 
+
+**Indirect emissions sources:** district_heating, electricity, wood
 
 **Sample format:**
 ```
