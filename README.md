@@ -1,9 +1,11 @@
 # EDAL-data-storage
 Storage for geospatial emissions and energy usage data.
 
-**Dependencies:** pandas, json, geopy
 
-**Validation Data Format:**
+
+# Validation Data Format
+
+**Dependencies:** pandas
 
 | Property | Description |
 | ------------- | ------------- |
@@ -28,28 +30,22 @@ Storage for geospatial emissions and energy usage data.
 
 **Indirect emissions sources:** district_heating, electricity, wood
 
-**Sample format:**
-```
-{ "type": "FeatureCollection", 
-  "features": [
-    { "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [21.1619, 86.8515]
-    },
-  "properties": {
-    "city": "Cancun",
-    "region": "Quintana Roo",
-    "country": "Mexico",
-    "residential_multiplier": 12.03125,
-    "commercial_multiplier": 6.94361,
-    "source": "Your Source",
-    "date_acquired": "Date",
-    "notes": "Additional Notes"}
-    }
- ]}
-```
+# Data Storage Format
 
-**Sample output:**
+**Dependencies:** pandas, unidecode, geopy, xmltodict
 
-![mxgeojson](https://github.com/juliakourela/EDAL-data-storage/assets/89415089/21218cf5-b702-4afc-8685-dbe15aa7ee55)
+| Property | Description |
+| ------------- | ------------- |
+| name  | Textual descriptor of region (string) |
+| feature_type  | Type of region: continent, country, subregion, or municipality (string) |
+| geonames_id  | GeoNames ID (int) |
+| emissions_factor  | Multiplier used in determining Energy Use Intensity (EUI) factors for commercial areas in region (float) |
+| fuel_use_mix  | Fuel use mix of region (string) |
+| eui_residential_multiplier  | Residential energy use intensity multiplier of region (float) |
+| eui_commercial_multiplier  | Commercial energy use intensity multiplier of region (float) |
+| source  | Source of data (string) |
+| acquisition_date  | Data data acquired (MM-DD-YYYY) |
+| valid_start_date  | First date data is valid for (MM-DD-YYYY) |
+| valid_end_date  | Final date data is valid for (MM-DD-YYYY) |
+| notes  | Additional notes on entry (string) |
+
