@@ -30,6 +30,8 @@ Storage for geospatial emissions and energy usage data.
 
 **Indirect emissions sources:** district_heating, electricity, wood
 
+**Categories:** Residential, Commercial, Industry, Institutional
+
 # Data Storage Format
 
 **Dependencies:** pandas, unidecode, geopy, xmltodict
